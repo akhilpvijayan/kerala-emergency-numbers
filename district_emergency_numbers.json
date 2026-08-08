@@ -1,0 +1,1987 @@
+{
+  "generated_at": "2026-08-08T14:52:51+0000",
+  "state_level_numbers": {
+    "kerala_emergency_112": "112",
+    "kseoc_state_disaster_control_room": "1070 / 1079 / 0471-2778800",
+    "police": "100",
+    "fire": "101",
+    "ambulance": "108",
+    "women_helpline": "1091 / 181",
+    "child_helpline": "1098",
+    "highway_accident_helpline": "1033",
+    "kseb_helpline": "1912",
+    "kerala_water_authority_helpline": "1916"
+  },
+  "districts": {
+    "Thiruvananthapuram": {
+      "district": "Thiruvananthapuram",
+      "source_url": null,
+      "numbers": [],
+      "status": "not_found",
+      "error": "No candidate page yielded phone numbers. Check DISTRICTS/CANDIDATE_PATHS in sources.py manually."
+    },
+    "Kollam": {
+      "district": "Kollam",
+      "source_url": "https://kollam.nic.in/en/disaster-management/",
+      "numbers": [
+        {
+          "category": "other",
+          "label": "0476 -2830345",
+          "number": "9447170345",
+          "source_url": "https://kollam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0475 -2350090",
+          "number": "9447191605",
+          "source_url": "https://kollam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0474 -2454623",
+          "number": "9447184623",
+          "source_url": "https://kollam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0474 -2742116",
+          "number": "9447194116",
+          "source_url": "https://kollam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0475 -2222605",
+          "number": "8547618456",
+          "source_url": "https://kollam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Karunagappally",
+          "number": "9447080223",
+          "source_url": "https://kollam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "deoc",
+          "label": "District Disaster Management Cell Collectorate, Kollam – 691013 DEOC Kollam, Telephone",
+          "number": "9447677800",
+          "source_url": "https://kollam.nic.in/en/disaster-management/"
+        }
+      ],
+      "status": "ok",
+      "error": null
+    },
+    "Pathanamthitta": {
+      "district": "Pathanamthitta",
+      "source_url": "https://pathanamthitta.nic.in/en/disaster-management/",
+      "numbers": [
+        {
+          "category": "collector",
+          "label": "Dy.Collector ( Disaster Management)",
+          "number": "8547610039",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "collector",
+          "label": "Dy.Collector ( Disaster Management)",
+          "number": "9188297112",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "deoc",
+          "label": "District Emergency Operation Centre ( 24 * 7)",
+          "number": "0468-2322515",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "deoc",
+          "label": "District Emergency Operation Centre ( 24 * 7)",
+          "number": "0468-2228205",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "deoc",
+          "label": "District Emergency Operation Centre ( 24 * 7)",
+          "number": "8078808915",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "collector",
+          "label": "Collectorate, Pathanamthitta",
+          "number": "0468-2222515",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "collector",
+          "label": "CA to District Collector",
+          "number": "0468-2222505",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "04734-224826, 9447034826",
+          "number": "9447034826",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0468-2222221, 9447712221",
+          "number": "0468-2222221",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0468-2222221, 9447712221",
+          "number": "9447712221",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0469-2682293, 9447014293",
+          "number": "0469-2682293",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0469-2682293, 9447014293",
+          "number": "9447014293",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "04735-227442, 9447049214",
+          "number": "9447049214",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0469-2601303, 9447059203",
+          "number": "0469-2601303",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0469-2601303, 9447059203",
+          "number": "9447059203",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0468-2240087, 8547618430",
+          "number": "0468-2240087",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0468-2240087, 8547618430",
+          "number": "8547618430",
+          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+        }
+      ],
+      "status": "ok",
+      "error": null
+    },
+    "Alappuzha": {
+      "district": "Alappuzha",
+      "source_url": "https://alappuzha.nic.in/en/disaster-management/",
+      "numbers": [
+        {
+          "category": "other",
+          "label": "Chair Person(ex-Officio)",
+          "number": "0477 2251720",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Chair Person(ex-Officio)",
+          "number": "9447129011",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Co-Chair Person (ex -Officio)",
+          "number": "9446564463",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "collector",
+          "label": "Deputy Collector (Disaster Management)",
+          "number": "8547610047",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0477-2239326, 9497996982",
+          "number": "0477-2239326",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0477-2239326, 9497996982",
+          "number": "9497996982",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "District Medical Officer (Health)",
+          "number": "0477-2252329",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Assistant Divional Officer, Fire & Rescue Force",
+          "number": "0477-2230303",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Assistant Divional Officer, Fire & Rescue Force",
+          "number": "9497920114",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Deputy Director(Fisheries)",
+          "number": "0477-2251103",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Deputy Director(Fisheries)",
+          "number": "9496007028",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "collector",
+          "label": "News Press Releases Assembly Election 2026 Candidates Expenditure Statements 102 – Aroor 103-Cherthala 104-Alappuzha 105-Ambalapuzha 106-Kuttanad 107-Haripad 108-Kayamkulam 109-Mavelikara 110-Chengannur Quotation Notice Spot Auction Public Auction Woman Empowerment Expression of Interest Reports Pollution Control Board District Environment Plan Furnishing District Enviornmental Plan Final report of unauthorised construction in CRZ area of Alappuzha district Abstract of Unauthorised constructions in CRZ Area Land Acquisition Newspaper advertisement District Collector’s proceedings LRC proceedings LRC Suggestions L A Notice Land Acquisition Notifications SIA Reports Expert Committee Report Flood Relief Flood 2018 Flood 2019 COTPA Regional Transport Authority RTA Meeting Agenda RTA Meeting Minutes Right To Information (RTI)",
+          "number": "102",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "collector",
+          "label": "News Press Releases Assembly Election 2026 Candidates Expenditure Statements 102 – Aroor 103-Cherthala 104-Alappuzha 105-Ambalapuzha 106-Kuttanad 107-Haripad 108-Kayamkulam 109-Mavelikara 110-Chengannur Quotation Notice Spot Auction Public Auction Woman Empowerment Expression of Interest Reports Pollution Control Board District Environment Plan Furnishing District Enviornmental Plan Final report of unauthorised construction in CRZ area of Alappuzha district Abstract of Unauthorised constructions in CRZ Area Land Acquisition Newspaper advertisement District Collector’s proceedings LRC proceedings LRC Suggestions L A Notice Land Acquisition Notifications SIA Reports Expert Committee Report Flood Relief Flood 2018 Flood 2019 COTPA Regional Transport Authority RTA Meeting Agenda RTA Meeting Minutes Right To Information (RTI)",
+          "number": "108",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "collector",
+          "label": "News Press Releases Assembly Election 2026 Candidates Expenditure Statements 102 – Aroor 103-Cherthala 104-Alappuzha 105-Ambalapuzha 106-Kuttanad 107-Haripad 108-Kayamkulam 109-Mavelikara 110-Chengannur Quotation Notice Spot Auction Public Auction Woman Empowerment Expression of Interest Reports Pollution Control Board District Environment Plan Furnishing District Enviornmental Plan Final report of unauthorised construction in CRZ area of Alappuzha district Abstract of Unauthorised constructions in CRZ Area Land Acquisition Newspaper advertisement District Collector’s proceedings LRC proceedings LRC Suggestions L A Notice Land Acquisition Notifications SIA Reports Expert Committee Report Flood Relief Flood 2018 Flood 2019 COTPA Regional Transport Authority RTA Meeting Agenda RTA Meeting Minutes Right To Information (RTI)",
+          "number": "109",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Assembly Election 2026 Candidates Expenditure Statements 102 – Aroor 103-Cherthala 104-Alappuzha 105-Ambalapuzha 106-Kuttanad 107-Haripad 108-Kayamkulam 109-Mavelikara 110-Chengannur",
+          "number": "102",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Assembly Election 2026 Candidates Expenditure Statements 102 – Aroor 103-Cherthala 104-Alappuzha 105-Ambalapuzha 106-Kuttanad 107-Haripad 108-Kayamkulam 109-Mavelikara 110-Chengannur",
+          "number": "108",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Assembly Election 2026 Candidates Expenditure Statements 102 – Aroor 103-Cherthala 104-Alappuzha 105-Ambalapuzha 106-Kuttanad 107-Haripad 108-Kayamkulam 109-Mavelikara 110-Chengannur",
+          "number": "109",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "control_room",
+          "label": "Disaster Management – Control Room",
+          "number": "+91 9495003640",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "control_room",
+          "label": "Disaster Management – Control Room",
+          "number": "0477 2238630",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "control_room",
+          "label": "Disaster Management – Control Room",
+          "number": "1077",
+          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+        }
+      ],
+      "status": "ok",
+      "error": null
+    },
+    "Kottayam": {
+      "district": "Kottayam",
+      "source_url": "https://kottayam.nic.in/en/disaster-management/",
+      "numbers": [
+        {
+          "category": "other",
+          "label": "Kottayam",
+          "number": "0481 2568007",
+          "source_url": "https://kottayam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Changanacherry",
+          "number": "0481 2420037",
+          "source_url": "https://kottayam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "collector",
+          "label": "About District History Who’s Who Map of District Organisation Chart Administrative Setup COLLECTORATE Revenue Divisional Offices (2) Taluks (5) & Villages (100) Municipalities (6) Blocks (11) & Panchayats (71) POLICE Constituencies Courts Elected Representatives Demography Geography CLIMATE Produce",
+          "number": "100",
+          "source_url": "https://kottayam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Taluks (5) & Villages (100)",
+          "number": "100",
+          "source_url": "https://kottayam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "collector",
+          "label": "District Disaster Management Cell Collectorate, Kottayam – 686002 Toll Free Number",
+          "number": "1077",
+          "source_url": "https://kottayam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "collector",
+          "label": "District Disaster Management Cell Collectorate, Kottayam – 686002 Toll Free Number",
+          "number": "9446562236",
+          "source_url": "https://kottayam.nic.in/en/disaster-management/"
+        }
+      ],
+      "status": "ok",
+      "error": null
+    },
+    "Idukki": {
+      "district": "Idukki",
+      "source_url": "https://idukki.nic.in/en/helpline/",
+      "numbers": [
+        {
+          "category": "ambulance",
+          "label": "Ambulance",
+          "number": "108",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "fire",
+          "label": "Fire Station",
+          "number": "101",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "State Disaster Management Control Room",
+          "number": "1070",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "District Disaster Management Control Room (Collectorate)",
+          "number": "1077",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "number": "9383463036",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "number": "100",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "number": "1098",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "number": "1091",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "number": "1090",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "number": "1961",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "number": "1967",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "number": "1056",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "number": "1800-425-5313",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "number": "1912",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "police",
+          "label": "Police Station (Nearest)",
+          "number": "100",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "child_helpline",
+          "label": "Child Helpline",
+          "number": "1098",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "women_helpline",
+          "label": "Women Helpline",
+          "number": "1091",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        },
+        {
+          "category": "kwa",
+          "label": "Kerala Water Authority (Toll free no.)",
+          "number": "1800-425-5313",
+          "source_url": "https://idukki.nic.in/en/helpline/"
+        }
+      ],
+      "status": "ok",
+      "error": null
+    },
+    "Ernakulam": {
+      "district": "Ernakulam",
+      "source_url": "https://ernakulam.nic.in/en/disaster-management/",
+      "numbers": [
+        {
+          "category": "other",
+          "label": "0484-2423001, 0484-2372902",
+          "number": "0484-2423001",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0484-2423001, 0484-2372902",
+          "number": "0484-2372902",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "collector",
+          "label": "Deputy Collector",
+          "number": "8547610077",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Tahsildar Kochi",
+          "number": "0484-2215559",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Tahsildar Kanayannoor",
+          "number": "0484-2360704",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Tahsildar Paravur",
+          "number": "0484-2442326",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Tahsildar Aluva",
+          "number": "0484-2624052",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Tahsildar Kunnathunad",
+          "number": "0484-2522224",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Tahsildar Muvattupuzha",
+          "number": "0485-2832313",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Tahsildar Kothamangalam",
+          "number": "0485-2822298",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "control_room",
+          "label": "SDMA Control Room -TVM",
+          "number": "0471-2331639",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "SEOC",
+          "number": "0471-2364424",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "control_room",
+          "label": "Police Control Room -City",
+          "number": "0484-2359200",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "control_room",
+          "label": "police Control Room -Rural",
+          "number": "0484-2621100",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Special Branch",
+          "number": "0484-2623540",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "control_room",
+          "label": "Fire & Rescue Control Room",
+          "number": "0484-2205550",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "control_room",
+          "label": "KSEB Control Room",
+          "number": "0484-2392358",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "control_room",
+          "label": "DMO Control Room",
+          "number": "0484-2369567",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "control_room",
+          "label": "Water Authority Control Room",
+          "number": "0484-2361369",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "control_room",
+          "label": "Fisheries Control Room",
+          "number": "0484-2394476",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Deputy Director Fisheries",
+          "number": "9496007029",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "NAVY-JOC",
+          "number": "0484-2668889",
+          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+        }
+      ],
+      "status": "ok",
+      "error": null
+    },
+    "Thrissur": {
+      "district": "Thrissur",
+      "source_url": "https://thrissur.nic.in/en/helpline/",
+      "numbers": [
+        {
+          "category": "other",
+          "label": "Cyber Cell",
+          "number": "0471-2449090",
+          "source_url": "https://thrissur.nic.in/en/helpline/"
+        },
+        {
+          "category": "kwa",
+          "label": "Water Authority",
+          "number": "0487-2333070",
+          "source_url": "https://thrissur.nic.in/en/helpline/"
+        },
+        {
+          "category": "child_helpline",
+          "label": "Child Helpline",
+          "number": "1098",
+          "source_url": "https://thrissur.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "R.T.O  helpline",
+          "number": "8547639108",
+          "source_url": "https://thrissur.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Excise Helpline",
+          "number": "0487-2361237",
+          "source_url": "https://thrissur.nic.in/en/helpline/"
+        },
+        {
+          "category": "women_helpline",
+          "label": "Women Helpline",
+          "number": "1091",
+          "source_url": "https://thrissur.nic.in/en/helpline/"
+        },
+        {
+          "category": "police",
+          "label": "Police helpline",
+          "number": "100",
+          "source_url": "https://thrissur.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Food Adulteration",
+          "number": "8943346188",
+          "source_url": "https://thrissur.nic.in/en/helpline/"
+        }
+      ],
+      "status": "ok",
+      "error": null
+    },
+    "Palakkad": {
+      "district": "Palakkad",
+      "source_url": "https://palakkad.nic.in/en/helpline/",
+      "numbers": [
+        {
+          "category": "control_room",
+          "label": "State Control Room",
+          "number": "1070",
+          "source_url": "https://palakkad.nic.in/en/helpline/"
+        },
+        {
+          "category": "collector",
+          "label": "Collectorate",
+          "number": "0491-2505309",
+          "source_url": "https://palakkad.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Police Control Room",
+          "number": "100",
+          "source_url": "https://palakkad.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Police Control Room",
+          "number": "0491-2522340",
+          "source_url": "https://palakkad.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Accident/Emergency Help Line",
+          "number": "108",
+          "source_url": "https://palakkad.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Fire and Rescue",
+          "number": "101",
+          "source_url": "https://palakkad.nic.in/en/helpline/"
+        },
+        {
+          "category": "ambulance",
+          "label": "Ambulance Help Line",
+          "number": "102",
+          "source_url": "https://palakkad.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Vanitha Help Line",
+          "number": "1090",
+          "source_url": "https://palakkad.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Child Line",
+          "number": "1098",
+          "source_url": "https://palakkad.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Child Line",
+          "number": "0491-2570291",
+          "source_url": "https://palakkad.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "State Vanitha Cell (TVM)",
+          "number": "0471-2338100",
+          "source_url": "https://palakkad.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Women’s Cell, Palakkad",
+          "number": "0491-2504650",
+          "source_url": "https://palakkad.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Sexual Harasment (Safe Women)",
+          "number": "1091",
+          "source_url": "https://palakkad.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Highway Helpline Numbers of Kerala Police",
+          "number": "100",
+          "source_url": "https://palakkad.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "KSRTC Palakkad",
+          "number": "0491-2520098",
+          "source_url": "https://palakkad.nic.in/en/helpline/"
+        },
+        {
+          "category": "kseb",
+          "label": "KSEB Palakkad",
+          "number": "0491-2537053",
+          "source_url": "https://palakkad.nic.in/en/helpline/"
+        }
+      ],
+      "status": "ok",
+      "error": null
+    },
+    "Malappuram": {
+      "district": "Malappuram",
+      "source_url": "https://malappuram.nic.in/en/disaster-management/",
+      "numbers": [
+        {
+          "category": "collector",
+          "label": "Disaster Managemet, Collectorate",
+          "number": "0483 2736320",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "collector",
+          "label": "Disaster Managemet, Collectorate",
+          "number": "0483 2736326",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "M.S.P ,Commandant",
+          "number": "0483-2734921",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "M.S.P ,Commandant",
+          "number": "9447187621",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "M.S.P Melmuri",
+          "number": "0483-2779108",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "S.R.A.F Pandikkad",
+          "number": "0483-2783397",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Fire & Rescue,Asst. Divisional Officer",
+          "number": "9496468129",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "fire",
+          "label": "Fire Force, Ponnani",
+          "number": "0494-2666022",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "fire",
+          "label": "Fire Force, Malappuram",
+          "number": "0483-2734800",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "fire",
+          "label": "Fire Force, Tirur",
+          "number": "0494-2422333",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0483-2737857,0483-2736241",
+          "number": "0483-2737857",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0483-2737857,0483-2736241",
+          "number": "0483-2736241",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0483-2737857,0483-2736241",
+          "number": "9946105489",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "D.M.O (Ayurveda)",
+          "number": "0483-273485",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "D.M.O (homeo)",
+          "number": "0483-273138",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Food and Safety",
+          "number": "0483-2732121",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "C.I. Valanchery",
+          "number": "0494-644143",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "C.I. Valanchery",
+          "number": "9497987169",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "C.I. Ponnani",
+          "number": "0494-2666027",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "C.I. Ponnani",
+          "number": "9497987168",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Fisheries,Dy.Director, Ponnani",
+          "number": "0494-2666428",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Port Officer, Ponnani",
+          "number": "0494-2666058",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0484-2872466,0484-2872268",
+          "number": "0484-2872466",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "0484-2872466,0484-2872268",
+          "number": "0484-2872268",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "collector",
+          "label": "Camp Office, Ernakulam collectorate",
+          "number": "0484-2372902",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "collector",
+          "label": "Camp Office, Ernakulam collectorate",
+          "number": "0484-2422282",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Commando Operations",
+          "number": "0484-2218121",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "coat guard, District commander",
+          "number": "9447972212",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Indian Oil,Cochin",
+          "number": "9447498260",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Hindustan Petroleum, Cochin",
+          "number": "9446346160",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Bharat Petroleum, Cochin",
+          "number": "9846244022",
+          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+        }
+      ],
+      "status": "ok",
+      "error": null
+    },
+    "Kozhikode": {
+      "district": "Kozhikode",
+      "source_url": "https://kozhikode.nic.in/en/helpline/",
+      "numbers": [
+        {
+          "category": "other",
+          "label": "Comissioner of Rescue & Relief",
+          "number": "1070",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Crime Stopper",
+          "number": "1090",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
+        },
+        {
+          "category": "women_helpline",
+          "label": "Women Helpline",
+          "number": "1091",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Child Help line",
+          "number": "1098",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Disaster Help Line",
+          "number": "1077",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "BSNL Help Line",
+          "number": "1500",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Police Control Room",
+          "number": "100",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Fire and Rescue",
+          "number": "101",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
+        },
+        {
+          "category": "ambulance",
+          "label": "Ambulance Help Line",
+          "number": "102",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Accident Help Line",
+          "number": "108",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Vanitha Helpline (Police)",
+          "number": "9995399953",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Vanitha – Nirbhaya",
+          "number": "9833312222",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
+        }
+      ],
+      "status": "ok",
+      "error": null
+    },
+    "Wayanad": {
+      "district": "Wayanad",
+      "source_url": "https://wayanad.nic.in/en/disaster-management/",
+      "numbers": [
+        {
+          "category": "deoc",
+          "label": "District Emergency Operating Centre ; Wayanad. Phone : 04936-204151,  8078409770,  9526804151 Toll Free No : 1077 E Mail – deocwyd@gmail.com",
+          "number": "8078409770",
+          "source_url": "https://wayanad.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "deoc",
+          "label": "District Emergency Operating Centre ; Wayanad. Phone : 04936-204151,  8078409770,  9526804151 Toll Free No : 1077 E Mail – deocwyd@gmail.com",
+          "number": "9526804151",
+          "source_url": "https://wayanad.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "deoc",
+          "label": "District Emergency Operating Centre ; Wayanad. Phone : 04936-204151,  8078409770,  9526804151 Toll Free No : 1077 E Mail – deocwyd@gmail.com",
+          "number": "1077",
+          "source_url": "https://wayanad.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Phone",
+          "number": "8078409770",
+          "source_url": "https://wayanad.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Phone",
+          "number": "9526804151",
+          "source_url": "https://wayanad.nic.in/en/disaster-management/"
+        },
+        {
+          "category": "other",
+          "label": "Phone",
+          "number": "1077",
+          "source_url": "https://wayanad.nic.in/en/disaster-management/"
+        }
+      ],
+      "status": "ok",
+      "error": null
+    },
+    "Kannur": {
+      "district": "Kannur",
+      "source_url": "https://kannur.nic.in/en/helpline/",
+      "numbers": [
+        {
+          "category": "control_room",
+          "label": "POLICE CONTROL ROOM",
+          "number": "100",
+          "source_url": "https://kannur.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "POLICE MESSAGE CENTER",
+          "number": "97 900000",
+          "source_url": "https://kannur.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "POLICE HIGH WAY HELP LINE",
+          "number": "100",
+          "source_url": "https://kannur.nic.in/en/helpline/"
+        },
+        {
+          "category": "fire",
+          "label": "FIRE STATION",
+          "number": "101",
+          "source_url": "https://kannur.nic.in/en/helpline/"
+        },
+        {
+          "category": "ambulance",
+          "label": "AMBULANCE",
+          "number": "108",
+          "source_url": "https://kannur.nic.in/en/helpline/"
+        },
+        {
+          "category": "women_helpline",
+          "label": "WOMEN HELPLINE",
+          "number": "1091",
+          "source_url": "https://kannur.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "CRIME STOPPER",
+          "number": "1091",
+          "source_url": "https://kannur.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "HIGH WAY ALERT",
+          "number": "9846100100",
+          "source_url": "https://kannur.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "RAIL ALERT",
+          "number": "9846200100",
+          "source_url": "https://kannur.nic.in/en/helpline/"
+        }
+      ],
+      "status": "ok",
+      "error": null
+    },
+    "Kasaragod": {
+      "district": "Kasaragod",
+      "source_url": null,
+      "numbers": [],
+      "status": "not_found",
+      "error": "No candidate page yielded phone numbers. Check DISTRICTS/CANDIDATE_PATHS in sources.py manually."
+    }
+  },
+  "ksdma_pdf_crosscheck": {
+    "Thiruvananthapuram": [
+      "0470 2613222",
+      "0470 2622406",
+      "0471 2222227",
+      "0471 2291414",
+      "0471 2462006",
+      "0472 2802424"
+    ],
+    "Kollam": [
+      "0474 2454623",
+      "0474 2742116",
+      "0474-2450168",
+      "0474-2522490",
+      "0474-2740933",
+      "0474-2742376",
+      "0474-2742945",
+      "0474-2746200",
+      "0474-2748101",
+      "0474-2750201",
+      "0474-2751053",
+      "0474-2763044",
+      "0474-2792850",
+      "0474-2794002",
+      "0474-2794004",
+      "0474-2794900",
+      "0474-2795017",
+      "0474-2795186",
+      "0474-2797220",
+      "0475 2222605",
+      "0475 2350090",
+      "0475-2222595",
+      "0475-2222701",
+      "0476 2620223",
+      "0476 2685200",
+      "0476 2830345",
+      "0476-2620555",
+      "0476-2623255",
+      "0476-2680036",
+      "100",
+      "1077",
+      "8547610026",
+      "8547610701",
+      "9072615302",
+      "9400598826",
+      "9446008267",
+      "9447080223",
+      "9447141191",
+      "9447191605",
+      "9447677800",
+      "9447795500",
+      "9495088157",
+      "9495099903",
+      "9496007027",
+      "9496007036",
+      "9496011660",
+      "9497176005",
+      "9497779725",
+      "9497920046",
+      "9497920048",
+      "9497920050",
+      "9497920052",
+      "9497920111",
+      "9497990025",
+      "9497990026",
+      "9497990027",
+      "9497996908",
+      "9946105473"
+    ],
+    "Alappuzha": [
+      "0477 2253771",
+      "0477 2702221",
+      "0477-2230303",
+      "0477-2238630",
+      "0477-2239326",
+      "0477-2243721",
+      "0477-2245602",
+      "0477-2251103",
+      "0477-2251211",
+      "0477-2251720",
+      "0477-2252329",
+      "0477-2252501",
+      "0477-2252965",
+      "0477-2262609",
+      "0478 2813103",
+      "0479 2302216",
+      "0479 2412797",
+      "0479 2452334",
+      "0484 22216174",
+      "8547610047",
+      "9072615204",
+      "9072615304",
+      "9447129011",
+      "9495003640",
+      "9495099905",
+      "9496007028",
+      "9496008283",
+      "9497920114",
+      "9497996982",
+      "9946105477"
+    ],
+    "Kottayam": [
+      "0481 2420037",
+      "0481 2565007",
+      "0481 2568007",
+      "0481-2360323",
+      "0481-2562001",
+      "0481-2562201",
+      "0481-2562778",
+      "0481-2562908",
+      "0481-2564700",
+      "0481-2564800",
+      "0481-2566823",
+      "0481-2567442",
+      "0481-2567444",
+      "0481-2568050",
+      "0481-2568118",
+      "0481-2570057",
+      "0482 2212325",
+      "0482 8202331",
+      "0482 9231331",
+      "0484-2217164",
+      "1077",
+      "9072615305",
+      "9446008280",
+      "9446562236",
+      "9446564800",
+      "9447029007",
+      "9495099906",
+      "9496155958",
+      "9497996980",
+      "9946105479",
+      "9947992800"
+    ],
+    "Pathanamthitta": [
+      "0468 2228633",
+      "0468-2222001",
+      "0468-2222505",
+      "0468-2222636",
+      "0468-2222642",
+      "0468-2223134",
+      "0468-2228220",
+      "0468-2229213",
+      "0468-2322515",
+      "0468-2324337",
+      "0468-2967720",
+      "0473-4226063",
+      "1077",
+      "8078808915",
+      "8547610039",
+      "8921031800",
+      "8921551252",
+      "9072615203",
+      "9072615303",
+      "9188297112",
+      "9447029008",
+      "9447596139",
+      "9495099904",
+      "9497920097",
+      "9497920112",
+      "9497996983",
+      "9946105475"
+    ],
+    "Ernakulam": [
+      "0484 2215559",
+      "0484 2360704",
+      "0484 2366311",
+      "0484 2392358",
+      "0484 2522224",
+      "0484 2624052",
+      "0484 2972817",
+      "0484-2205550",
+      "0484-2206131",
+      "0484-2216046",
+      "0484-2218121",
+      "0484-2218560",
+      "0484-2335592",
+      "0484-2359200",
+      "0484-2360531",
+      "0484-2360802",
+      "0484-2373616",
+      "0484-2385000",
+      "0484-2385005",
+      "0484-2422292",
+      "0484-2422294",
+      "0484-2423001",
+      "0484-2423513",
+      "0484-2555965",
+      "0484-2620172",
+      "0484-2623550",
+      "0484-2624007",
+      "0484-2668889",
+      "0484-2872018",
+      "0484-2872020",
+      "0484-2872353",
+      "0484-2874907",
+      "0484-2915441",
+      "0485 2813773",
+      "0485 2860468",
+      "8547610077",
+      "9072615307",
+      "9400021077",
+      "9446008202",
+      "9447302984",
+      "9447729012",
+      "9447811295",
+      "9495099908",
+      "9497920100",
+      "9497920105",
+      "9497962412",
+      "9497980500",
+      "9497996979",
+      "9497996990",
+      "9846896447",
+      "9946105483"
+    ],
+    "Idukki": [
+      "0486 2263226",
+      "0486-2222550",
+      "0486-2222911",
+      "0486-2232318",
+      "0486-2232354",
+      "0486-2232356",
+      "0486-2233006",
+      "0486-2233030",
+      "0486-2233056",
+      "0486-2233103",
+      "0486-2233111",
+      "0486-2235225",
+      "0486-2236100",
+      "0486-2825333",
+      "0486-5230290",
+      "0486-8272300",
+      "0486-9232300",
+      "8547610061",
+      "9072615306",
+      "9383463036",
+      "9447032252",
+      "9495099907",
+      "9497920116",
+      "9497920156",
+      "9497920158",
+      "9497920162",
+      "9497920233",
+      "9497996981",
+      "9744157057",
+      "9946105481"
+    ],
+    "Thrissur": [
+      "0484-2218969",
+      "0484-2362424",
+      "0487-2333050",
+      "0487-2333242",
+      "0487-2334313",
+      "0487-2360050",
+      "0487-2361000",
+      "0487-2361020",
+      "0487-2363424",
+      "0487-2382458",
+      "0487-2420183",
+      "0487-2421842",
+      "0487-2423650",
+      "1077",
+      "8547610089",
+      "9072615308",
+      "9446008309",
+      "9447074424",
+      "9447129013",
+      "9495099909",
+      "9496007030",
+      "9497920117",
+      "9497996978"
+    ],
+    "Palakkad": [
+      "0466 2214300",
+      "0491 2505770",
+      "0491-2505008",
+      "0491-2505264",
+      "0491-2505266",
+      "0491-2505309",
+      "0491-2505701",
+      "0491-2505702",
+      "0491-2533026",
+      "0491-2534011",
+      "0491-2535008",
+      "0491-2544296",
+      "0491-257298",
+      "0491-2576355",
+      "0491-2815245",
+      "0492 3224740",
+      "8547610093",
+      "8547610100",
+      "8921994727",
+      "9072615309",
+      "9387288266",
+      "9447791477",
+      "9495099910",
+      "9496007050",
+      "9497920118",
+      "9497920167",
+      "9497996977",
+      "9847363676",
+      "9946105487"
+    ],
+    "Malappuram": [
+      "0483 2713311",
+      "0483-2731387",
+      "0483-2734225",
+      "0483-2734355",
+      "0483-2734377",
+      "0483-2734788",
+      "0483-2734800",
+      "0483-2734852",
+      "0483-2736240",
+      "0483-2736320",
+      "0483-2736326",
+      "0483-2737857",
+      "0483-2766174",
+      "0483-2766870",
+      "0494-2666428",
+      "1077",
+      "8547616007",
+      "9383464212",
+      "9446008321",
+      "9446539017",
+      "9495099912",
+      "9496007031",
+      "9496010273",
+      "9496010278",
+      "9497920119",
+      "9497996976",
+      "9745607528"
+    ],
+    "Kozhikode": [
+      "0495 2223088",
+      "0495 2372966",
+      "0495-2323191",
+      "0495-2370494",
+      "0495-2371002",
+      "0495-2371062",
+      "0495-2371400",
+      "0495-2371486",
+      "0495-2371748",
+      "0495-2383500",
+      "0495-2390350",
+      "0495-2414074",
+      "0495-2417994",
+      "0495-2722911",
+      "0495-2765912",
+      "0496 2522361",
+      "0496 2620235",
+      "0496-2517350",
+      "0496-2523100",
+      "0496-2523109",
+      "1077",
+      "8547616018",
+      "9072615311",
+      "9446538900",
+      "9447171400",
+      "9495099913",
+      "9495575324",
+      "9496007032",
+      "9496007038",
+      "9497920107",
+      "9497996975",
+      "9497996989",
+      "9946105491"
+    ],
+    "Wayanad": [
+      "0493-5240390",
+      "0493-6202230",
+      "0493-6202259",
+      "0493-6202333",
+      "0493-6202521",
+      "0493-6202525",
+      "0493-6202532",
+      "0493-6203101",
+      "0493-6203906",
+      "0493-6204151",
+      "0493-6205844",
+      "0493-6205949",
+      "0493-6224217",
+      "8078409770",
+      "8547616021",
+      "9072615312",
+      "9446008329",
+      "9446008330",
+      "9447097702",
+      "9447204666",
+      "9495099914",
+      "9497920122",
+      "9497980125",
+      "9497996974",
+      "9946105493"
+    ],
+    "Kannur": [
+      "0460-2230267",
+      "0490 2343813",
+      "0490 2494910",
+      "0490-2323350",
+      "0497 2704969",
+      "0497-2700194",
+      "0497-2700242",
+      "0497-2700243",
+      "0497-2700577",
+      "0497-2700645",
+      "0497-2700911",
+      "0497-2703645",
+      "0497-2705960",
+      "0497-2706900",
+      "0497-2707819",
+      "0497-2731081",
+      "0497-2763330",
+      "0497-2763331",
+      "0497-2763335",
+      "0497-2780100",
+      "0498 5204460",
+      "101",
+      "8547616034",
+      "9072615313",
+      "9446682300",
+      "9447029015",
+      "9447700860",
+      "9447766780",
+      "9495099915",
+      "9496007033",
+      "9496011079",
+      "9497920238",
+      "9497990137",
+      "9497990138",
+      "9497990139",
+      "9497990140",
+      "9497996900",
+      "9497996973",
+      "9946105495"
+    ],
+    "Kasaragod": [
+      "+91 9868101885",
+      "+91 9868891801",
+      "+91-11-23092722",
+      "+91-11-23092989",
+      "+91-11-23093003",
+      "+91-11-23093564",
+      "+91-11-23093750",
+      "+91-11-23438096",
+      "+91-11-23438098",
+      "+91-11-23438252",
+      "+91-11-23438253",
+      "+91-11-23438254",
+      "+91-11-26701701",
+      "+91-11-26701709",
+      "+91-11-26701715",
+      "+91-11-26701716",
+      "+91-11-26701720",
+      "+91-11-26701728",
+      "+91-11-26701738",
+      "+91-11-26701747",
+      "+91-11-26701765",
+      "+91-11-26701775",
+      "+91-11-26701776",
+      "+91-11-26701777",
+      "+91-11-26701864",
+      "+91-11-26701872",
+      "+91-11-26701884",
+      "+91-11-26701886",
+      "011-23438091",
+      "011-23438136",
+      "011-24368925",
+      "044-24917711",
+      "0467-2202537",
+      "0467-2203118",
+      "0467-2205710",
+      "0467-2206886",
+      "0468 2222494",
+      "0468-2322515",
+      "0470-2607700",
+      "0470-2622000",
+      "0471 2313385",
+      "0471 2319831",
+      "0471 2320868",
+      "0471 2322830",
+      "0471 2325106",
+      "0471 2364424",
+      "0471 2462829",
+      "0471 2486484",
+      "0471 2511501",
+      "0471 2518356",
+      "0471 2551376",
+      "0471 2554255",
+      "0471 2721601",
+      "0471 2731166",
+      "0471 2731177",
+      "0471 2731188",
+      "0471 2752617",
+      "0471 2770012",
+      "0471 2770013",
+      "0471 2770018",
+      "0471 2770020",
+      "0471 2770029",
+      "0471 2770038",
+      "0471 2770054",
+      "0471 2770056",
+      "0471 2770057",
+      "0471 2770069",
+      "0471 2770071",
+      "0471 2770079",
+      "0471 2770082",
+      "0471 2770087",
+      "0471 2770088",
+      "0471 2770090",
+      "0471 2770091",
+      "0471 2770092",
+      "0471 2770093",
+      "0471 2770094",
+      "0471 2770206",
+      "0471 2774095",
+      "0471 2783939",
+      "0471-155333",
+      "0471-2201717",
+      "0471-2222101",
+      "0471-2222307",
+      "0471-2273101",
+      "0471-2280101",
+      "0471-2302381",
+      "0471-2302490",
+      "0471-2302887",
+      "0471-2303025",
+      "0471-2303160",
+      "0471-2304230",
+      "0471-2304480",
+      "0471-2306040",
+      "0471-2312886",
+      "0471-2314526",
+      "0471-2314853",
+      "0471-2318406",
+      "0471-2318946",
+      "0471-2320486",
+      "0471-2320578",
+      "0471-2320579",
+      "0471-2320988",
+      "0471-2321676",
+      "0471-2322346",
+      "0471-2322471",
+      "0471-2322547",
+      "0471-2322833",
+      "0471-2322855",
+      "0471-2322894",
+      "0471-2322927",
+      "0471-2322947",
+      "0471-2323286",
+      "0471-2323979",
+      "0471-2325239",
+      "0471-2326812",
+      "0471-2327782",
+      "0471-233100",
+      "0471-2331639",
+      "0471-2331843",
+      "0471-2333091",
+      "0471-2333101",
+      "0471-2333109",
+      "0471-2333147",
+      "0471-2333174",
+      "0471-2333198",
+      "0471-2333314",
+      "0471-2333670",
+      "0471-2337397",
+      "0471-2339593",
+      "0471-2346508",
+      "0471-2346534",
+      "0471-2346538",
+      "0471-2352373",
+      "0471-2353030",
+      "0471-2364424",
+      "0471-2417827",
+      "0471-2440974",
+      "0471-2441597",
+      "0471-2446471",
+      "0471-2447429",
+      "0471-2450773",
+      "0471-2459365",
+      "0471-2461013",
+      "0471-2461147",
+      "0471-2461399",
+      "0471-2462574",
+      "0471-2470342",
+      "0471-2471291",
+      "0471-2474266",
+      "0471-2478030",
+      "0471-2480300",
+      "0471-2480335",
+      "0471-2481856",
+      "0471-2486484",
+      "0471-2487200",
+      "0471-2501255",
+      "0471-2507827",
+      "0471-2511501",
+      "0471-2511502",
+      "0471-2512040",
+      "0471-2517437",
+      "0471-2518113",
+      "0471-2518119",
+      "0471-2518181",
+      "0471-2518216",
+      "0471-2518255",
+      "0471-2518356",
+      "0471-2518406",
+      "0471-2518443",
+      "0471-2518453",
+      "0471-2525444",
+      "0471-2528506",
+      "0471-2528508",
+      "0471-2555544",
+      "0471-2556699",
+      "0471-2700099",
+      "0471-2730045",
+      "0471-2730067",
+      "0471-2737240",
+      "0471-2738300",
+      "0471-2778800",
+      "0471-2778844",
+      "0471-2778888",
+      "0472-2812101",
+      "0472-2859101",
+      "0472-2871101",
+      "0474 2793818",
+      "0474-2794002",
+      "0477 2251457",
+      "0477-2238630",
+      "0477-2252015",
+      "0479 2382014",
+      "0481 2562425",
+      "0481-2566300",
+      "0483 2734390",
+      "0483-2736320",
+      "0484 2211000",
+      "0484 2314229",
+      "0484 2423071",
+      "0484 2972667",
+      "0484-2216046",
+      "0484-2218121",
+      "0484-2423513",
+      "0484-2555950",
+      "0484-2872358",
+      "0484-2879999",
+      "0484-2915441",
+      "0486 2232291",
+      "0486-2233111",
+      "0487 2323977",
+      "0487 2361513",
+      "0487-2301167",
+      "0487-2302268",
+      "0487-2362424",
+      "0491 2505292",
+      "0491-2505309",
+      "0493 6202236",
+      "0493-6204151",
+      "0495 2371754",
+      "0495-2371002",
+      "0497 2700418",
+      "0497-2703645",
+      "0497-2766993",
+      "0499 4255687",
+      "0499-4225677",
+      "0499-4230101",
+      "0499-4230382",
+      "0499-4231101",
+      "0499-4255687",
+      "0499-4255833",
+      "0499-4256400",
+      "0499-4257401",
+      "0499-4257700",
+      "100",
+      "101",
+      "1011",
+      "1070",
+      "1077",
+      "1078",
+      "1079",
+      "108",
+      "109",
+      "1093",
+      "1098",
+      "112",
+      "1554",
+      "1800-180-1104",
+      "18004251803",
+      "18004252147",
+      "1912",
+      "1916",
+      "6282934416",
+      "8078071070",
+      "8078075552",
+      "8078409770",
+      "8078808915",
+      "8078972385",
+      "8086395003",
+      "8281974722",
+      "8547102577",
+      "8547155621",
+      "8547605905",
+      "8547610000",
+      "8547610101",
+      "8547638114",
+      "8547655214",
+      "8589077774",
+      "8921994727",
+      "8991118172",
+      "8991118173",
+      "8991118174",
+      "8991118175",
+      "8991119064",
+      "8991119065",
+      "8991119066",
+      "8991119067",
+      "8991119068",
+      "8991119069",
+      "8991119070",
+      "8991119071",
+      "8991119072",
+      "8991119073",
+      "8991119074",
+      "9048917984",
+      "9072615314",
+      "9188027019",
+      "9188619365",
+      "9188961111",
+      "9383463036",
+      "9383464212",
+      "9383470100",
+      "9387363300",
+      "9388600514",
+      "9400021077",
+      "9400050320",
+      "9400058900",
+      "9400169681",
+      "9400323122",
+      "9400553344",
+      "9442140269",
+      "9446008010",
+      "9446008011",
+      "9446008018",
+      "9446008022",
+      "9446008023",
+      "9446008345",
+      "9446008588",
+      "9446067097",
+      "9446068285",
+      "9446331953",
+      "9446385900",
+      "9446386719",
+      "9446502927",
+      "9446513040",
+      "9446533341",
+      "9446538900",
+      "9446562236",
+      "9446568222",
+      "9446579222",
+      "9446601700",
+      "9446682300",
+      "9446768626",
+      "9446959894",
+      "9447000370",
+      "9447047429",
+      "9447071092",
+      "9447074424",
+      "9447139266",
+      "9447144230",
+      "9447170342",
+      "9447171437",
+      "9447178000",
+      "9447254871",
+      "9447344491",
+      "9447433036",
+      "9447496600",
+      "9447499938",
+      "9447677800",
+      "9447688595",
+      "9447700222",
+      "9447702525",
+      "9447713067",
+      "9447726900",
+      "9447733947",
+      "9447791297",
+      "9447979000",
+      "9495003640",
+      "9495099902",
+      "9495099916",
+      "9495467650",
+      "9495655920",
+      "9496007020",
+      "9496007026",
+      "9496018719",
+      "9496040600",
+      "9496753000",
+      "9497379999",
+      "9497392798",
+      "9497711281",
+      "9497724200",
+      "9497920001",
+      "9497920004",
+      "9497920021",
+      "9497920023",
+      "9497920025",
+      "9497920027",
+      "9497920031",
+      "9497920033",
+      "9497920035",
+      "9497920037",
+      "9497920110",
+      "9497920123",
+      "9497920258",
+      "9497920277",
+      "9497960211",
+      "9497990246",
+      "9497996988",
+      "9497996991",
+      "9497999999",
+      "9711077372",
+      "9745416475",
+      "9747542020",
+      "9846100100",
+      "9868101885",
+      "9868891801",
+      "9946105472",
+      "9946105497",
+      "9995841716"
+    ]
+  }
+}

@@ -49,6 +49,7 @@ from sources import (
     LABEL_KEYWORDS,
     STATE_LEVEL_NUMBERS,
     KSDMA_DIRECTORY_PDF,
+    MAX_LABEL_LENGTH,
 )
 
 USER_AGENT = (
@@ -86,7 +87,7 @@ class DistrictResult:
     district: str
     source_url: Optional[str] = None
     numbers: list = field(default_factory=list)
-    status: str = "pending"   # ok | not_found | error
+    status: str = "pending"   # ok | ok_fallback_pdf | not_found | error
     error: Optional[str] = None
 
 
@@ -133,9 +134,12 @@ def extract_numbers_from_html(html: str, source_url: str) -> list:
         phones = PHONE_RE.findall(row_text)
         if not phones:
             continue
-        # Label = the longest non-numeric-looking cell in the row
+        # Label = the longest non-numeric-looking cell in the row, but
+        # discard if it's actually a mis-captured nav menu / footer block.
         label_candidates = [c for c in cells if not PHONE_RE.fullmatch(c.strip())]
         label = max(label_candidates, key=len) if label_candidates else "Unlabeled"
+        if len(label) > MAX_LABEL_LENGTH:
+            label = "Unlabeled (source page had ambiguous layout — verify manually)"
         for phone in phones:
             results.append(
                 ContactNumber(
@@ -156,6 +160,11 @@ def extract_numbers_from_html(html: str, source_url: str) -> list:
             if not phones:
                 continue
             label = re.split(r":|-\s*\d", text)[0].strip()
+            if len(label) > MAX_LABEL_LENGTH:
+                # Likely a paragraph of unrelated body text that happens to
+                # contain a number (e.g. a page-navigation block) — skip
+                # entirely rather than keep noisy junk entries.
+                continue
             for phone in phones:
                 results.append(
                     ContactNumber(
@@ -249,6 +258,33 @@ def download_pdf(session: requests.Session, url: str, dest: Path, verify_ssl: bo
     return True
 
 
+def apply_pdf_fallback(result: DistrictResult, pdf_numbers: list) -> DistrictResult:
+    """
+    If a district's nic.in page couldn't be scraped, fall back to the
+    numbers found for it in the KSDMA state PDF directory. These aren't
+    categorized (the PDF has no clean label-per-number structure), so every
+    entry is tagged category="other" with a note to prompt manual review —
+    but it beats shipping an empty entry for that district.
+    """
+    if not pdf_numbers:
+        result.status = "not_found"
+        result.error = (
+            "No candidate nic.in page yielded numbers, AND no match was found "
+            "in the KSDMA PDF cross-check. This district needs a manual look — "
+            "check DISTRICTS in sources.py for the correct domain."
+        )
+        return result
+
+    result.status = "ok_fallback_pdf"
+    result.source_url = KSDMA_DIRECTORY_PDF
+    result.error = "Primary nic.in scrape failed — these numbers are from the KSDMA state PDF directory fallback and are uncategorized. Verify before publishing."
+    result.numbers = [
+        asdict(ContactNumber(category="other", label="From KSDMA PDF directory (uncategorized)", number=n, source_url=KSDMA_DIRECTORY_PDF))
+        for n in pdf_numbers
+    ]
+    return result
+
+
 def main():
     parser = argparse.ArgumentParser(description="Scrape Kerala district emergency numbers from official sources.")
     parser.add_argument("--district", help="Scrape only this district (e.g. Idukki)")
@@ -282,20 +318,30 @@ def main():
 
     # --- Per-district nic.in scraping ---
     targets = {args.district: DISTRICTS[args.district]} if args.district else DISTRICTS
+    pdf_crosscheck = output["ksdma_pdf_crosscheck"]
     for district, domain in targets.items():
         print(f"Scraping {district} ({domain})...", file=sys.stderr)
         result = scrape_district(session, district, domain, verify_ssl)
+        if result.status != "ok":
+            print(f"  -> primary scrape failed ({result.status}), trying KSDMA PDF fallback...", file=sys.stderr)
+            result = apply_pdf_fallback(result, pdf_crosscheck.get(district, []))
         output["districts"][district] = asdict(result)
-        status_note = "OK" if result.status == "ok" else f"NEEDS REVIEW ({result.status})"
+        status_note = {
+            "ok": "OK (nic.in)",
+            "ok_fallback_pdf": "OK (KSDMA PDF fallback — needs review)",
+        }.get(result.status, f"NEEDS REVIEW ({result.status})")
         print(f"  -> {status_note}", file=sys.stderr)
 
     Path(args.output).write_text(json.dumps(output, indent=2, ensure_ascii=False))
-    ok_count = sum(1 for d in output["districts"].values() if d["status"] == "ok")
-    print(f"\nDone. {ok_count}/{len(targets)} districts scraped successfully.")
+    ok_count = sum(1 for d in output["districts"].values() if d["status"] in ("ok", "ok_fallback_pdf"))
+    print(f"\nDone. {ok_count}/{len(targets)} districts resolved (via nic.in or PDF fallback).")
     print(f"Output written to {args.output}")
-    needs_review = [d for d, v in output["districts"].items() if v["status"] != "ok"]
+    needs_review = [d for d, v in output["districts"].items() if v["status"] not in ("ok", "ok_fallback_pdf")]
+    fallback_used = [d for d, v in output["districts"].items() if v["status"] == "ok_fallback_pdf"]
+    if fallback_used:
+        print(f"Used PDF fallback (uncategorized, verify before publishing): {', '.join(fallback_used)}")
     if needs_review:
-        print(f"Needs manual review (add correct URL to sources.py CANDIDATE_PATHS or DISTRICTS): {', '.join(needs_review)}")
+        print(f"Still unresolved — needs manual fix in sources.py: {', '.join(needs_review)}")
 
 
 if __name__ == "__main__":

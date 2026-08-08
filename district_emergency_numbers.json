@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T14:52:51+0000",
+  "generated_at": "2026-08-08T15:11:53+0000",
   "state_level_numbers": {
     "kerala_emergency_112": "112",
     "kseoc_state_disaster_control_room": "1070 / 1079 / 0471-2778800",
@@ -15,56 +15,201 @@
   "districts": {
     "Thiruvananthapuram": {
       "district": "Thiruvananthapuram",
-      "source_url": null,
-      "numbers": [],
-      "status": "not_found",
-      "error": "No candidate page yielded phone numbers. Check DISTRICTS/CANDIDATE_PATHS in sources.py manually."
-    },
-    "Kollam": {
-      "district": "Kollam",
-      "source_url": "https://kollam.nic.in/en/disaster-management/",
+      "source_url": "https://trivandrum.nic.in/en/helpline/",
       "numbers": [
         {
-          "category": "other",
-          "label": "0476 -2830345",
-          "number": "9447170345",
-          "source_url": "https://kollam.nic.in/en/disaster-management/"
+          "category": "control_room",
+          "label": "Control Room",
+          "number": "0471-2730067",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "0475 -2350090",
-          "number": "9447191605",
-          "source_url": "https://kollam.nic.in/en/disaster-management/"
+          "label": "Media Center",
+          "number": "0471-2730087",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "0474 -2454623",
-          "number": "9447184623",
-          "source_url": "https://kollam.nic.in/en/disaster-management/"
+          "label": "National Emergency Number",
+          "number": "112",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "0474 -2742116",
-          "number": "9447194116",
-          "source_url": "https://kollam.nic.in/en/disaster-management/"
+          "label": "Police",
+          "number": "100",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "0475 -2222605",
-          "number": "8547618456",
-          "source_url": "https://kollam.nic.in/en/disaster-management/"
+          "label": "Fire",
+          "number": "101",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
+        },
+        {
+          "category": "ambulance",
+          "label": "Ambulance",
+          "number": "102",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Karunagappally",
-          "number": "9447080223",
-          "source_url": "https://kollam.nic.in/en/disaster-management/"
+          "label": "Disaster Management Services",
+          "number": "0471-2730045",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
+        },
+        {
+          "category": "women_helpline",
+          "label": "Women Helpline",
+          "number": "1091",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Aids Helpline",
+          "number": "1097",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Crime Stopper",
+          "number": "1090",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Railway Police Alert",
+          "number": "9846200100",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Highway Alert",
+          "number": "9846100100",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Road Accident Emergency Service",
+          "number": "108",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "SMS Center",
+          "number": "9497900000",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Children In Difficult Situation",
+          "number": "1098",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Central Vigilance Commission",
+          "number": "1964",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Tourist Alert",
+          "number": "9846300100",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Pink Petrol",
+          "number": "1515",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
         },
         {
           "category": "deoc",
-          "label": "District Disaster Management Cell Collectorate, Kollam – 691013 DEOC Kollam, Telephone",
-          "number": "9447677800",
-          "source_url": "https://kollam.nic.in/en/disaster-management/"
+          "label": "District Emergency operation center",
+          "number": "0471-2730045",
+          "source_url": "https://trivandrum.nic.in/en/helpline/"
+        }
+      ],
+      "status": "ok",
+      "error": null
+    },
+    "Kollam": {
+      "district": "Kollam",
+      "source_url": "https://kollam.nic.in/en/helpline/",
+      "numbers": [
+        {
+          "category": "police",
+          "label": "Nearest Police station",
+          "number": "100",
+          "source_url": "https://kollam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Police Message Centre",
+          "number": "97 900000",
+          "source_url": "https://kollam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Police High Way Help Line",
+          "number": "100",
+          "source_url": "https://kollam.nic.in/en/helpline/"
+        },
+        {
+          "category": "fire",
+          "label": "Fire Station",
+          "number": "101",
+          "source_url": "https://kollam.nic.in/en/helpline/"
+        },
+        {
+          "category": "ambulance",
+          "label": "Ambulance",
+          "number": "108",
+          "source_url": "https://kollam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Crime Stopper",
+          "number": "1090",
+          "source_url": "https://kollam.nic.in/en/helpline/"
+        },
+        {
+          "category": "women_helpline",
+          "label": "Women Helpline",
+          "number": "1091",
+          "source_url": "https://kollam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Traffic Alert",
+          "number": "1099",
+          "source_url": "https://kollam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Highway Alert",
+          "number": "9846100100",
+          "source_url": "https://kollam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "9497900000 ( For SMS registration )",
+          "number": "9497900000",
+          "source_url": "https://kollam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Rail Alert",
+          "number": "9846200100",
+          "source_url": "https://kollam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Computer Emergency Response Team",
+          "number": "0471-2725646",
+          "source_url": "https://kollam.nic.in/en/helpline/"
         }
       ],
       "status": "ok",
@@ -72,109 +217,115 @@
     },
     "Pathanamthitta": {
       "district": "Pathanamthitta",
-      "source_url": "https://pathanamthitta.nic.in/en/disaster-management/",
+      "source_url": "https://pathanamthitta.nic.in/en/helpline/",
       "numbers": [
         {
-          "category": "collector",
-          "label": "Dy.Collector ( Disaster Management)",
-          "number": "8547610039",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+          "category": "control_room",
+          "label": "State Control Room",
+          "number": "1070",
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
         },
         {
-          "category": "collector",
-          "label": "Dy.Collector ( Disaster Management)",
-          "number": "9188297112",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+          "category": "control_room",
+          "label": "Collectorate Control Room",
+          "number": "1077",
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
         },
         {
-          "category": "deoc",
-          "label": "District Emergency Operation Centre ( 24 * 7)",
-          "number": "0468-2322515",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "deoc",
-          "label": "District Emergency Operation Centre ( 24 * 7)",
-          "number": "0468-2228205",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "deoc",
-          "label": "District Emergency Operation Centre ( 24 * 7)",
-          "number": "8078808915",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "collector",
-          "label": "Collectorate, Pathanamthitta",
+          "category": "other",
+          "label": "0468-2222515, 0468-2232515, 0468-2222505, 0468-2222507",
           "number": "0468-2222515",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
         },
         {
-          "category": "collector",
-          "label": "CA to District Collector",
+          "category": "other",
+          "label": "0468-2222515, 0468-2232515, 0468-2222505, 0468-2222507",
+          "number": "0468-2232515",
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "0468-2222515, 0468-2232515, 0468-2222505, 0468-2222507",
           "number": "0468-2222505",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "04734-224826, 9447034826",
-          "number": "9447034826",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+          "label": "0468-2222515, 0468-2232515, 0468-2222505, 0468-2222507",
+          "number": "0468-2222507",
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "0468-2222221, 9447712221",
-          "number": "0468-2222221",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+          "label": "District Medical Office",
+          "number": "0468-2222642",
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Police Control Room",
+          "number": "100",
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "0468-2222221, 9447712221",
-          "number": "9447712221",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+          "label": "Accident Help Line",
+          "number": "108",
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "0469-2682293, 9447014293",
-          "number": "0469-2682293",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+          "label": "Fire and Rescue",
+          "number": "101",
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
+        },
+        {
+          "category": "ambulance",
+          "label": "Ambulance Help Line",
+          "number": "102",
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "0469-2682293, 9447014293",
-          "number": "9447014293",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+          "label": "Vanitha Help Line",
+          "number": "1090",
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "04735-227442, 9447049214",
-          "number": "9447049214",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+          "label": "Vanitha Helpline (Police)",
+          "number": "9995399953",
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "0469-2601303, 9447059203",
-          "number": "0469-2601303",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+          "label": "Sexual Harashment ( Safe Woman)",
+          "number": "1091",
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "0469-2601303, 9447059203",
-          "number": "9447059203",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+          "label": "Vanitha – Nirbhaya",
+          "number": "9833312222",
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "0468-2240087, 8547618430",
-          "number": "0468-2240087",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+          "label": "Child Help line",
+          "number": "1098",
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "0468-2240087, 8547618430",
-          "number": "8547618430",
-          "source_url": "https://pathanamthitta.nic.in/en/disaster-management/"
+          "label": "Disaster Help Line",
+          "number": "1077",
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "BSNL Help Line",
+          "number": "1500",
+          "source_url": "https://pathanamthitta.nic.in/en/helpline/"
         }
       ],
       "status": "ok",
@@ -182,127 +333,181 @@
     },
     "Alappuzha": {
       "district": "Alappuzha",
-      "source_url": "https://alappuzha.nic.in/en/disaster-management/",
+      "source_url": "https://alappuzha.nic.in/en/helpline/",
       "numbers": [
         {
-          "category": "other",
-          "label": "Chair Person(ex-Officio)",
-          "number": "0477 2251720",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Chair Person(ex-Officio)",
-          "number": "9447129011",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Co-Chair Person (ex -Officio)",
-          "number": "9446564463",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "collector",
-          "label": "Deputy Collector (Disaster Management)",
-          "number": "8547610047",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "0477-2239326, 9497996982",
-          "number": "0477-2239326",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "0477-2239326, 9497996982",
-          "number": "9497996982",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "District Medical Officer (Health)",
-          "number": "0477-2252329",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Assistant Divional Officer, Fire & Rescue Force",
-          "number": "0477-2230303",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Assistant Divional Officer, Fire & Rescue Force",
-          "number": "9497920114",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Deputy Director(Fisheries)",
-          "number": "0477-2251103",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Deputy Director(Fisheries)",
-          "number": "9496007028",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "collector",
-          "label": "News Press Releases Assembly Election 2026 Candidates Expenditure Statements 102 – Aroor 103-Cherthala 104-Alappuzha 105-Ambalapuzha 106-Kuttanad 107-Haripad 108-Kayamkulam 109-Mavelikara 110-Chengannur Quotation Notice Spot Auction Public Auction Woman Empowerment Expression of Interest Reports Pollution Control Board District Environment Plan Furnishing District Enviornmental Plan Final report of unauthorised construction in CRZ area of Alappuzha district Abstract of Unauthorised constructions in CRZ Area Land Acquisition Newspaper advertisement District Collector’s proceedings LRC proceedings LRC Suggestions L A Notice Land Acquisition Notifications SIA Reports Expert Committee Report Flood Relief Flood 2018 Flood 2019 COTPA Regional Transport Authority RTA Meeting Agenda RTA Meeting Minutes Right To Information (RTI)",
-          "number": "102",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "collector",
-          "label": "News Press Releases Assembly Election 2026 Candidates Expenditure Statements 102 – Aroor 103-Cherthala 104-Alappuzha 105-Ambalapuzha 106-Kuttanad 107-Haripad 108-Kayamkulam 109-Mavelikara 110-Chengannur Quotation Notice Spot Auction Public Auction Woman Empowerment Expression of Interest Reports Pollution Control Board District Environment Plan Furnishing District Enviornmental Plan Final report of unauthorised construction in CRZ area of Alappuzha district Abstract of Unauthorised constructions in CRZ Area Land Acquisition Newspaper advertisement District Collector’s proceedings LRC proceedings LRC Suggestions L A Notice Land Acquisition Notifications SIA Reports Expert Committee Report Flood Relief Flood 2018 Flood 2019 COTPA Regional Transport Authority RTA Meeting Agenda RTA Meeting Minutes Right To Information (RTI)",
-          "number": "108",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "collector",
-          "label": "News Press Releases Assembly Election 2026 Candidates Expenditure Statements 102 – Aroor 103-Cherthala 104-Alappuzha 105-Ambalapuzha 106-Kuttanad 107-Haripad 108-Kayamkulam 109-Mavelikara 110-Chengannur Quotation Notice Spot Auction Public Auction Woman Empowerment Expression of Interest Reports Pollution Control Board District Environment Plan Furnishing District Enviornmental Plan Final report of unauthorised construction in CRZ area of Alappuzha district Abstract of Unauthorised constructions in CRZ Area Land Acquisition Newspaper advertisement District Collector’s proceedings LRC proceedings LRC Suggestions L A Notice Land Acquisition Notifications SIA Reports Expert Committee Report Flood Relief Flood 2018 Flood 2019 COTPA Regional Transport Authority RTA Meeting Agenda RTA Meeting Minutes Right To Information (RTI)",
-          "number": "109",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Assembly Election 2026 Candidates Expenditure Statements 102 – Aroor 103-Cherthala 104-Alappuzha 105-Ambalapuzha 106-Kuttanad 107-Haripad 108-Kayamkulam 109-Mavelikara 110-Chengannur",
-          "number": "102",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Assembly Election 2026 Candidates Expenditure Statements 102 – Aroor 103-Cherthala 104-Alappuzha 105-Ambalapuzha 106-Kuttanad 107-Haripad 108-Kayamkulam 109-Mavelikara 110-Chengannur",
-          "number": "108",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Assembly Election 2026 Candidates Expenditure Statements 102 – Aroor 103-Cherthala 104-Alappuzha 105-Ambalapuzha 106-Kuttanad 107-Haripad 108-Kayamkulam 109-Mavelikara 110-Chengannur",
-          "number": "109",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "control_room",
-          "label": "Disaster Management – Control Room",
-          "number": "+91 9495003640",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "control_room",
-          "label": "Disaster Management – Control Room",
-          "number": "0477 2238630",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "control_room",
-          "label": "Disaster Management – Control Room",
+          "category": "deoc",
+          "label": "District Emergency operation center",
           "number": "1077",
-          "source_url": "https://alappuzha.nic.in/en/disaster-management/"
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Control Room Collectorate",
+          "number": "0477 2238630",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Control Room Collectorate",
+          "number": "9495003640",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Control Room Ambalappuzha",
+          "number": "0477 2253771",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Control Room Cherthala",
+          "number": "0478 2813103",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Control Room Karthikapally",
+          "number": "0479 2412797",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Control Room Kuttanad",
+          "number": "0477 2702221",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Control Room Mavelikkara",
+          "number": "0479 2302216",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Control Room Chengannur",
+          "number": "0479 2452334",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "kseb",
+          "label": "KSEB",
+          "number": "9496010101",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Media Cell",
+          "number": "0477 2237018",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "National Emergency Number",
+          "number": "112",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Police",
+          "number": "100",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Fire",
+          "number": "101",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "ambulance",
+          "label": "Ambulance",
+          "number": "102",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Disaster Management Services",
+          "number": "108",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "women_helpline",
+          "label": "Women Helpline",
+          "number": "1091",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Aids Helpline",
+          "number": "1097",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Senior Citizen Helpline",
+          "number": "1091",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Senior Citizen Helpline",
+          "number": "1291",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Railway Accident Emergency Service",
+          "number": "1072",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Road Accident Emergency Service",
+          "number": "1073",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Kisan Call Centre",
+          "number": "1551",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Children In Difficult Situation",
+          "number": "1098",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Central Vigilance Commission",
+          "number": "1964",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Indian Railway Security Helpline",
+          "number": "1322",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "LPG Leak Helpline",
+          "number": "1906",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "102 – Aroor",
+          "number": "102",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "109-Mavelikara",
+          "number": "109",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
         }
       ],
       "status": "ok",
@@ -322,12 +527,6 @@
           "category": "other",
           "label": "Changanacherry",
           "number": "0481 2420037",
-          "source_url": "https://kottayam.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "collector",
-          "label": "About District History Who’s Who Map of District Organisation Chart Administrative Setup COLLECTORATE Revenue Divisional Offices (2) Taluks (5) & Villages (100) Municipalities (6) Blocks (11) & Panchayats (71) POLICE Constituencies Courts Elected Representatives Demography Geography CLIMATE Produce",
-          "number": "100",
           "source_url": "https://kottayam.nic.in/en/disaster-management/"
         },
         {
@@ -382,61 +581,61 @@
         },
         {
           "category": "other",
-          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
           "number": "9383463036",
           "source_url": "https://idukki.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
           "number": "100",
           "source_url": "https://idukki.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
           "number": "1098",
           "source_url": "https://idukki.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
           "number": "1091",
           "source_url": "https://idukki.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
           "number": "1090",
           "source_url": "https://idukki.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
           "number": "1961",
           "source_url": "https://idukki.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
           "number": "1967",
           "source_url": "https://idukki.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
           "number": "1056",
           "source_url": "https://idukki.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
           "number": "1800-425-5313",
           "source_url": "https://idukki.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Idukki : 04862235361, Thodupuzha : 04862222503, Udumbanchola : 04868232050, Devikulam : 04865264231 Peerumedu:04869232077",
+          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
           "number": "1912",
           "source_url": "https://idukki.nic.in/en/helpline/"
         },
@@ -470,139 +669,145 @@
     },
     "Ernakulam": {
       "district": "Ernakulam",
-      "source_url": "https://ernakulam.nic.in/en/disaster-management/",
+      "source_url": "https://ernakulam.nic.in/en/helpline/",
       "numbers": [
         {
-          "category": "other",
-          "label": "0484-2423001, 0484-2372902",
-          "number": "0484-2423001",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+          "category": "ambulance",
+          "label": "Ambulance",
+          "number": "108",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
+        },
+        {
+          "category": "fire",
+          "label": "Fire Station",
+          "number": "101",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
+        },
+        {
+          "category": "police",
+          "label": "Police Station",
+          "number": "100",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
+        },
+        {
+          "category": "child_helpline",
+          "label": "Child Helpline",
+          "number": "1098",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
+        },
+        {
+          "category": "women_helpline",
+          "label": "Women Helpline",
+          "number": "1091",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "0484-2423001, 0484-2372902",
-          "number": "0484-2372902",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "collector",
-          "label": "Deputy Collector",
-          "number": "8547610077",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+          "label": "Crime Stopper",
+          "number": "1090",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Tahsildar Kochi",
-          "number": "0484-2215559",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+          "label": "DIAL A DOCTOR",
+          "number": "1056",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Tahsildar Kanayannoor",
-          "number": "0484-2360704",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+          "label": "Call Center  for General Query",
+          "number": "1961",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Tahsildar Paravur",
-          "number": "0484-2442326",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+          "label": "Election  Helpline",
+          "number": "1950",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Tahsildar Aluva",
-          "number": "0484-2624052",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+          "label": "Pink Police Patrol",
+          "number": "1515",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Tahsildar Kunnathunad",
-          "number": "0484-2522224",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+          "label": "Anti-Ragging Helpline",
+          "number": "1800 180 5522",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Tahsildar Muvattupuzha",
-          "number": "0485-2832313",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+          "label": "Chief Minister’s Distress Relief Fund",
+          "number": "0471-2518513",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Tahsildar Kothamangalam",
-          "number": "0485-2822298",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "control_room",
-          "label": "SDMA Control Room -TVM",
-          "number": "0471-2331639",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+          "label": "Chief Minister’s Distress Relief Fund",
+          "number": "0471-2518487",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "SEOC",
-          "number": "0471-2364424",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "control_room",
-          "label": "Police Control Room -City",
-          "number": "0484-2359200",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "control_room",
-          "label": "police Control Room -Rural",
-          "number": "0484-2621100",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+          "label": "Consumer Toll Free Helpline",
+          "number": "18004251550",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Special Branch",
-          "number": "0484-2623540",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "control_room",
-          "label": "Fire & Rescue Control Room",
-          "number": "0484-2205550",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "control_room",
-          "label": "KSEB Control Room",
-          "number": "0484-2392358",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "control_room",
-          "label": "DMO Control Room",
-          "number": "0484-2369567",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "control_room",
-          "label": "Water Authority Control Room",
-          "number": "0484-2361369",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "control_room",
-          "label": "Fisheries Control Room",
-          "number": "0484-2394476",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+          "label": "CPC Call Center",
+          "number": "1800-425-2229",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Deputy Director Fisheries",
-          "number": "9496007029",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+          "label": "Disaster Management Helpline",
+          "number": "1077",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "NAVY-JOC",
-          "number": "0484-2668889",
-          "source_url": "https://ernakulam.nic.in/en/disaster-management/"
+          "label": "Helpline for Ex-Service Men",
+          "number": "1800",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Highway Alert",
+          "number": "100",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
+        },
+        {
+          "category": "kseb",
+          "label": "KSEB",
+          "number": "1912",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "PWD Helpline",
+          "number": "1800 425 7771",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "SHE TAXI 24×7 Call Centre",
+          "number": "8590000543",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "1800-425-1550 (Toll free)",
+          "number": "1800-425-1550",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "50/1600, Amrita Lane, Peeliyad Road, Elamakkara, Kochi – 682026",
+          "number": "1600",
+          "source_url": "https://ernakulam.nic.in/en/helpline/"
         }
       ],
       "status": "ok",
@@ -770,193 +975,43 @@
     },
     "Malappuram": {
       "district": "Malappuram",
-      "source_url": "https://malappuram.nic.in/en/disaster-management/",
+      "source_url": "https://malappuram.nic.in/en/helpline/",
       "numbers": [
         {
-          "category": "collector",
-          "label": "Disaster Managemet, Collectorate",
-          "number": "0483 2736320",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "collector",
-          "label": "Disaster Managemet, Collectorate",
-          "number": "0483 2736326",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "M.S.P ,Commandant",
-          "number": "0483-2734921",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "M.S.P ,Commandant",
-          "number": "9447187621",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "M.S.P Melmuri",
-          "number": "0483-2779108",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "S.R.A.F Pandikkad",
-          "number": "0483-2783397",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Fire & Rescue,Asst. Divisional Officer",
-          "number": "9496468129",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+          "category": "police",
+          "label": "Police Station",
+          "number": "100",
+          "source_url": "https://malappuram.nic.in/en/helpline/"
         },
         {
           "category": "fire",
-          "label": "Fire Force, Ponnani",
-          "number": "0494-2666022",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "fire",
-          "label": "Fire Force, Malappuram",
-          "number": "0483-2734800",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "fire",
-          "label": "Fire Force, Tirur",
-          "number": "0494-2422333",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+          "label": "Fire station",
+          "number": "101",
+          "source_url": "https://malappuram.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "0483-2737857,0483-2736241",
-          "number": "0483-2737857",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+          "label": "Child Line",
+          "number": "1098",
+          "source_url": "https://malappuram.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "0483-2737857,0483-2736241",
-          "number": "0483-2736241",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+          "label": "Crime Stopper",
+          "number": "1090",
+          "source_url": "https://malappuram.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "0483-2737857,0483-2736241",
-          "number": "9946105489",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+          "label": "Womens Helpline",
+          "number": "1091",
+          "source_url": "https://malappuram.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "D.M.O (Ayurveda)",
-          "number": "0483-273485",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "D.M.O (homeo)",
-          "number": "0483-273138",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Food and Safety",
-          "number": "0483-2732121",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "C.I. Valanchery",
-          "number": "0494-644143",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "C.I. Valanchery",
-          "number": "9497987169",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "C.I. Ponnani",
-          "number": "0494-2666027",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "C.I. Ponnani",
-          "number": "9497987168",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Fisheries,Dy.Director, Ponnani",
-          "number": "0494-2666428",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Port Officer, Ponnani",
-          "number": "0494-2666058",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "0484-2872466,0484-2872268",
-          "number": "0484-2872466",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "0484-2872466,0484-2872268",
-          "number": "0484-2872268",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "collector",
-          "label": "Camp Office, Ernakulam collectorate",
-          "number": "0484-2372902",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "collector",
-          "label": "Camp Office, Ernakulam collectorate",
-          "number": "0484-2422282",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Commando Operations",
-          "number": "0484-2218121",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "coat guard, District commander",
-          "number": "9447972212",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Indian Oil,Cochin",
-          "number": "9447498260",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Hindustan Petroleum, Cochin",
-          "number": "9446346160",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Bharat Petroleum, Cochin",
-          "number": "9846244022",
-          "source_url": "https://malappuram.nic.in/en/disaster-management/"
+          "label": "High way  alert",
+          "number": "100",
+          "source_url": "https://malappuram.nic.in/en/helpline/"
         }
       ],
       "status": "ok",
@@ -1044,43 +1099,37 @@
     },
     "Wayanad": {
       "district": "Wayanad",
-      "source_url": "https://wayanad.nic.in/en/disaster-management/",
+      "source_url": "https://wayanad.nic.in/en/helpline/",
       "numbers": [
         {
-          "category": "deoc",
-          "label": "District Emergency Operating Centre ; Wayanad. Phone : 04936-204151,  8078409770,  9526804151 Toll Free No : 1077 E Mail – deocwyd@gmail.com",
-          "number": "8078409770",
-          "source_url": "https://wayanad.nic.in/en/disaster-management/"
+          "category": "police",
+          "label": "Police Station",
+          "number": "100",
+          "source_url": "https://wayanad.nic.in/en/helpline/"
         },
         {
-          "category": "deoc",
-          "label": "District Emergency Operating Centre ; Wayanad. Phone : 04936-204151,  8078409770,  9526804151 Toll Free No : 1077 E Mail – deocwyd@gmail.com",
-          "number": "9526804151",
-          "source_url": "https://wayanad.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "deoc",
-          "label": "District Emergency Operating Centre ; Wayanad. Phone : 04936-204151,  8078409770,  9526804151 Toll Free No : 1077 E Mail – deocwyd@gmail.com",
-          "number": "1077",
-          "source_url": "https://wayanad.nic.in/en/disaster-management/"
+          "category": "fire",
+          "label": "Fire Station",
+          "number": "101",
+          "source_url": "https://wayanad.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Phone",
-          "number": "8078409770",
-          "source_url": "https://wayanad.nic.in/en/disaster-management/"
+          "label": "Child Line",
+          "number": "1098",
+          "source_url": "https://wayanad.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Phone",
-          "number": "9526804151",
-          "source_url": "https://wayanad.nic.in/en/disaster-management/"
+          "label": "Womens Helpline",
+          "number": "1091",
+          "source_url": "https://wayanad.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Phone",
-          "number": "1077",
-          "source_url": "https://wayanad.nic.in/en/disaster-management/"
+          "label": "Highway Alert",
+          "number": "100",
+          "source_url": "https://wayanad.nic.in/en/helpline/"
         }
       ],
       "status": "ok",
@@ -1150,10 +1199,59 @@
     },
     "Kasaragod": {
       "district": "Kasaragod",
-      "source_url": null,
-      "numbers": [],
-      "status": "not_found",
-      "error": "No candidate page yielded phone numbers. Check DISTRICTS/CANDIDATE_PATHS in sources.py manually."
+      "source_url": "https://kasargod.nic.in/en/helpline/",
+      "numbers": [
+        {
+          "category": "other",
+          "label": "Cyber Cell",
+          "number": "0471-2449090",
+          "source_url": "https://kasargod.nic.in/en/helpline/"
+        },
+        {
+          "category": "kwa",
+          "label": "Water Authority",
+          "number": "0487-2333070",
+          "source_url": "https://kasargod.nic.in/en/helpline/"
+        },
+        {
+          "category": "child_helpline",
+          "label": "Child Helpline",
+          "number": "1098",
+          "source_url": "https://kasargod.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "R.T.O helpline",
+          "number": "8547639108",
+          "source_url": "https://kasargod.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Excise Helpline",
+          "number": "0487-2361237",
+          "source_url": "https://kasargod.nic.in/en/helpline/"
+        },
+        {
+          "category": "women_helpline",
+          "label": "Women Helpline",
+          "number": "1091",
+          "source_url": "https://kasargod.nic.in/en/helpline/"
+        },
+        {
+          "category": "police",
+          "label": "Police helpline",
+          "number": "100",
+          "source_url": "https://kasargod.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Food Adulteration",
+          "number": "8943346188",
+          "source_url": "https://kasargod.nic.in/en/helpline/"
+        }
+      ],
+      "status": "ok",
+      "error": null
     }
   },
   "ksdma_pdf_crosscheck": {

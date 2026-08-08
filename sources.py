@@ -31,16 +31,24 @@ KSDMA_CONTACT_PAGE = "https://sdma.kerala.gov.in/contact/"
 
 # Candidate relative paths to try on each district's nic.in domain, in priority order.
 CANDIDATE_PATHS = [
-    "en/disaster-management/",
     "en/helpline/",
+    "en/disaster-management/",
     "en/department/state-emergency-contact-numbers/",
     "en/district-emergency-operations-centre/",
     "en/contact-us/",
 ]
 
+# Labels longer than this are almost always mis-captured navigation menus /
+# breadcrumbs / page footers rather than a real field label, and should be
+# discarded rather than kept as junk "other" entries.
+MAX_LABEL_LENGTH = 100
+
 # district_key -> nic.in base domain
+# NOTE: two districts use their old/anglicized city names as the NIC domain,
+# not the district's official modern name — this caused silent scrape
+# failures previously. Verified against live pages.
 DISTRICTS = {
-    "Thiruvananthapuram": "thiruvananthapuram.nic.in",
+    "Thiruvananthapuram": "trivandrum.nic.in",   # NOT thiruvananthapuram.nic.in
     "Kollam": "kollam.nic.in",
     "Pathanamthitta": "pathanamthitta.nic.in",
     "Alappuzha": "alappuzha.nic.in",
@@ -53,7 +61,7 @@ DISTRICTS = {
     "Kozhikode": "kozhikode.nic.in",
     "Wayanad": "wayanad.nic.in",
     "Kannur": "kannur.nic.in",
-    "Kasaragod": "kasaragod.nic.in",
+    "Kasaragod": "kasargod.nic.in",              # NOT kasaragod.nic.in
 }
 
 # Keywords used to classify a phone number by what it's for, based on the

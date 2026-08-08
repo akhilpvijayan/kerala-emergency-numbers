@@ -1,4 +1,4 @@
-name: KSDMA Rainfall Scraper
+name: KSDMA contact numbers Scraper
 
 on:
   schedule:
@@ -27,12 +27,12 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-        run: python ksdma_scraper.py
+        run: python scraper.py
 
       - name: Commit updated files
         run: |
           git config user.name "ksdma-bot"
           git config user.email "bot@users.noreply.github.com"
           git add district_colors.json last_state.json
-          git commit -m "Update alert data $(date -u)" || echo "No changes to commit"
+          git commit -m "Update contact data $(date -u)" || echo "No changes to commit"
           git push

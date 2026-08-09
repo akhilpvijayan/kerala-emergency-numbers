@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T15:11:53+0000",
+  "generated_at": "2026-08-09T12:36:08+0000",
   "state_level_numbers": {
     "kerala_emergency_112": "112",
     "kseoc_state_disaster_control_room": "1070 / 1079 / 0471-2778800",
@@ -515,37 +515,55 @@
     },
     "Kottayam": {
       "district": "Kottayam",
-      "source_url": "https://kottayam.nic.in/en/disaster-management/",
+      "source_url": "https://kottayam.nic.in/en/helpline/",
       "numbers": [
-        {
-          "category": "other",
-          "label": "Kottayam",
-          "number": "0481 2568007",
-          "source_url": "https://kottayam.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Changanacherry",
-          "number": "0481 2420037",
-          "source_url": "https://kottayam.nic.in/en/disaster-management/"
-        },
         {
           "category": "other",
           "label": "Taluks (5) & Villages (100)",
           "number": "100",
-          "source_url": "https://kottayam.nic.in/en/disaster-management/"
+          "source_url": "https://kottayam.nic.in/en/helpline/"
         },
         {
-          "category": "collector",
-          "label": "District Disaster Management Cell Collectorate, Kottayam – 686002 Toll Free Number",
+          "category": "other",
+          "label": "1090",
+          "number": "1090",
+          "source_url": "https://kottayam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "1098",
+          "number": "1098",
+          "source_url": "https://kottayam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "1077",
           "number": "1077",
-          "source_url": "https://kottayam.nic.in/en/disaster-management/"
+          "source_url": "https://kottayam.nic.in/en/helpline/"
         },
         {
-          "category": "collector",
-          "label": "District Disaster Management Cell Collectorate, Kottayam – 686002 Toll Free Number",
-          "number": "9446562236",
-          "source_url": "https://kottayam.nic.in/en/disaster-management/"
+          "category": "other",
+          "label": "1091",
+          "number": "1091",
+          "source_url": "https://kottayam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "1070",
+          "number": "1070",
+          "source_url": "https://kottayam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "108",
+          "number": "108",
+          "source_url": "https://kottayam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "101",
+          "number": "101",
+          "source_url": "https://kottayam.nic.in/en/helpline/"
         }
       ],
       "status": "ok",

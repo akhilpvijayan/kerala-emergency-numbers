@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T15:50:23+0000",
+  "generated_at": "2026-09-06T14:44:08+0000",
   "state_level_numbers": {
     "kerala_emergency_112": "112",
     "kseoc_state_disaster_control_room": "1070 / 1079 / 0471-2778800",
@@ -333,225 +333,237 @@
     },
     "Alappuzha": {
       "district": "Alappuzha",
-      "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf",
+      "source_url": "https://alappuzha.nic.in/en/helpline/",
       "numbers": [
         {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0477 2253771",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "category": "deoc",
+          "label": "District Emergency operation center",
+          "number": "1077",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
         },
         {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0477 2702221",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "category": "control_room",
+          "label": "Control Room Collectorate",
+          "number": "0477 2238630",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
         },
         {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0477-2230303",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0477-2238630",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0477-2239326",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0477-2243721",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0477-2245602",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0477-2251103",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0477-2251211",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0477-2251720",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0477-2252329",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0477-2252501",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0477-2252965",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0477-2262609",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0478 2813103",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0479 2302216",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0479 2412797",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0479 2452334",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0484 22216174",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "8547610047",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9072615204",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9072615304",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9447129011",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
+          "category": "control_room",
+          "label": "Control Room Collectorate",
           "number": "9495003640",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Control Room Ambalappuzha",
+          "number": "0477 2253771",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Control Room Cherthala",
+          "number": "0478 2813103",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Control Room Karthikapally",
+          "number": "0479 2412797",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Control Room Kuttanad",
+          "number": "0477 2702221",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Control Room Mavelikkara",
+          "number": "0479 2302216",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Control Room Chengannur",
+          "number": "0479 2452334",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "kseb",
+          "label": "KSEB",
+          "number": "9496010101",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9495099905",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "label": "Media Cell",
+          "number": "0477 2237018",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9496007028",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "label": "National Emergency Number",
+          "number": "112",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9496008283",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "label": "Police",
+          "number": "100",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9497920114",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "label": "Fire",
+          "number": "101",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "ambulance",
+          "label": "Ambulance",
+          "number": "102",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9497996982",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "label": "Disaster Management Services",
+          "number": "108",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "women_helpline",
+          "label": "Women Helpline",
+          "number": "1091",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9946105477",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "label": "Aids Helpline",
+          "number": "1097",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Senior Citizen Helpline",
+          "number": "1091",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Senior Citizen Helpline",
+          "number": "1291",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Railway Accident Emergency Service",
+          "number": "1072",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Road Accident Emergency Service",
+          "number": "1073",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Kisan Call Centre",
+          "number": "1551",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Children In Difficult Situation",
+          "number": "1098",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Central Vigilance Commission",
+          "number": "1964",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "Indian Railway Security Helpline",
+          "number": "1322",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "LPG Leak Helpline",
+          "number": "1906",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "102 – Aroor",
+          "number": "102",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "109-Mavelikara",
+          "number": "109",
+          "source_url": "https://alappuzha.nic.in/en/helpline/"
         }
       ],
-      "status": "ok_fallback_pdf",
-      "error": "Primary nic.in scrape failed — these numbers are from the KSDMA state PDF directory fallback and are uncategorized. Verify before publishing."
+      "status": "ok",
+      "error": null
     },
     "Kottayam": {
       "district": "Kottayam",
-      "source_url": "https://kottayam.nic.in/en/disaster-management/",
+      "source_url": "https://kottayam.nic.in/en/helpline/",
       "numbers": [
-        {
-          "category": "other",
-          "label": "Kottayam",
-          "number": "0481 2568007",
-          "source_url": "https://kottayam.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Changanacherry",
-          "number": "0481 2420037",
-          "source_url": "https://kottayam.nic.in/en/disaster-management/"
-        },
         {
           "category": "other",
           "label": "Taluks (5) & Villages (100)",
           "number": "100",
-          "source_url": "https://kottayam.nic.in/en/disaster-management/"
+          "source_url": "https://kottayam.nic.in/en/helpline/"
         },
         {
-          "category": "collector",
-          "label": "District Disaster Management Cell Collectorate, Kottayam – 686002 Toll Free Number",
+          "category": "other",
+          "label": "1090",
+          "number": "1090",
+          "source_url": "https://kottayam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "1098",
+          "number": "1098",
+          "source_url": "https://kottayam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "1077",
           "number": "1077",
-          "source_url": "https://kottayam.nic.in/en/disaster-management/"
+          "source_url": "https://kottayam.nic.in/en/helpline/"
         },
         {
-          "category": "collector",
-          "label": "District Disaster Management Cell Collectorate, Kottayam – 686002 Toll Free Number",
-          "number": "9446562236",
-          "source_url": "https://kottayam.nic.in/en/disaster-management/"
+          "category": "other",
+          "label": "1091",
+          "number": "1091",
+          "source_url": "https://kottayam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "1070",
+          "number": "1070",
+          "source_url": "https://kottayam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "108",
+          "number": "108",
+          "source_url": "https://kottayam.nic.in/en/helpline/"
+        },
+        {
+          "category": "other",
+          "label": "101",
+          "number": "101",
+          "source_url": "https://kottayam.nic.in/en/helpline/"
         }
       ],
       "status": "ok",
@@ -1025,209 +1037,83 @@
     },
     "Kozhikode": {
       "district": "Kozhikode",
-      "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf",
+      "source_url": "https://kozhikode.nic.in/en/helpline/",
       "numbers": [
         {
           "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0495 2223088",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "label": "Comissioner of Rescue & Relief",
+          "number": "1070",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0495 2372966",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "label": "Crime Stopper",
+          "number": "1090",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
+        },
+        {
+          "category": "women_helpline",
+          "label": "Women Helpline",
+          "number": "1091",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0495-2323191",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "label": "Child Help line",
+          "number": "1098",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0495-2370494",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0495-2371002",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0495-2371062",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0495-2371400",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0495-2371486",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0495-2371748",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0495-2383500",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0495-2390350",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0495-2414074",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0495-2417994",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0495-2722911",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0495-2765912",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0496 2522361",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0496 2620235",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0496-2517350",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0496-2523100",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "0496-2523109",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
+          "label": "Disaster Help Line",
           "number": "1077",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "8547616018",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "label": "BSNL Help Line",
+          "number": "1500",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
+        },
+        {
+          "category": "control_room",
+          "label": "Police Control Room",
+          "number": "100",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9072615311",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "label": "Fire and Rescue",
+          "number": "101",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
+        },
+        {
+          "category": "ambulance",
+          "label": "Ambulance Help Line",
+          "number": "102",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9446538900",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "label": "Accident Help Line",
+          "number": "108",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9447171400",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "label": "Vanitha Helpline (Police)",
+          "number": "9995399953",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9495099913",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9495575324",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9496007032",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9496007038",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9497920107",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9497996975",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9497996989",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
-        },
-        {
-          "category": "other",
-          "label": "From KSDMA PDF directory (uncategorized)",
-          "number": "9946105491",
-          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+          "label": "Vanitha – Nirbhaya",
+          "number": "9833312222",
+          "source_url": "https://kozhikode.nic.in/en/helpline/"
         }
       ],
-      "status": "ok_fallback_pdf",
-      "error": "Primary nic.in scrape failed — these numbers are from the KSDMA state PDF directory fallback and are uncategorized. Verify before publishing."
+      "status": "ok",
+      "error": null
     },
     "Wayanad": {
       "district": "Wayanad",
@@ -1331,319 +1217,55 @@
     },
     "Kasaragod": {
       "district": "Kasaragod",
-      "source_url": "https://kasargod.nic.in/en/disaster-management/",
+      "source_url": "https://kasargod.nic.in/en/helpline/",
       "numbers": [
         {
           "category": "other",
-          "label": "sdmcontrolroom@gmail.com",
-          "number": "1070",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
+          "label": "Cyber Cell",
+          "number": "0471-2449090",
+          "source_url": "https://kasargod.nic.in/en/helpline/"
         },
         {
-          "category": "collector",
-          "label": "Ernakulam Collectorate ( For providing NDRF/ NAVY service)",
-          "number": "1077",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
+          "category": "kwa",
+          "label": "Water Authority",
+          "number": "0487-2333070",
+          "source_url": "https://kasargod.nic.in/en/helpline/"
         },
         {
-          "category": "other",
-          "label": "04994 -257700 Cell No. 9446601700",
-          "number": "9446601700",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "04994 -257700 Cell No. 9446601700",
-          "number": "1077",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
+          "category": "child_helpline",
+          "label": "Child Helpline",
+          "number": "1098",
+          "source_url": "https://kasargod.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Mangalore Disaster Management",
-          "number": "0824 2220584",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "collector",
-          "label": "District Collector",
-          "number": "9447496600",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
+          "label": "R.T.O helpline",
+          "number": "8547639108",
+          "source_url": "https://kasargod.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "District Panchayat President",
-          "number": "9447448727",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
+          "label": "Excise Helpline",
+          "number": "0487-2361237",
+          "source_url": "https://kasargod.nic.in/en/helpline/"
         },
         {
-          "category": "other",
-          "label": "District Police Chief",
-          "number": "9497996972",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "collector",
-          "label": "Deputy Collector(Gnl.)/ADM",
-          "number": "9447726900",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Asst,Div.Officer, Fire & Rescue",
-          "number": "9497920123",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
+          "category": "women_helpline",
+          "label": "Women Helpline",
+          "number": "1091",
+          "source_url": "https://kasargod.nic.in/en/helpline/"
         },
         {
           "category": "police",
-          "label": "C.I, Coastal Police station, Kasaragod",
-          "number": "9497970297",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "D.D. Fisheries",
-          "number": "9496007034",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "DMO, Kasaragod at Kanhangad",
-          "number": "9946105497",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "DySP Special Branch",
-          "number": "9497990141",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SDPO Kasaragod",
-          "number": "9497990143",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SDPO Kanhangad",
-          "number": "9497990148",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Asstant Commander , AR Camp",
-          "number": "9497990281",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "IP Kumbala",
-          "number": "9497987218",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "IP Kasaragod",
-          "number": "9497987217",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "IP Vidyanagar",
-          "number": "9497970103",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "IP Adhur",
-          "number": "9497987219",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "IP Bekal",
-          "number": "9497964323",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "IP Hosdurg",
-          "number": "9497987220",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "IP Nileswar",
-          "number": "9497987222",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "IP Vellarikundu",
-          "number": "9497987221",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "IP Women Cell",
-          "number": "9497980942",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SHO Manjeshwar",
-          "number": "9497980926",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SHO Kumbala",
-          "number": "9497980924",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SHO Kasaragod",
-          "number": "9497980934",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SHO Traffic",
-          "number": "9497980945",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SHO Vidyanagar",
-          "number": "9497990343",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SHO Bediadka",
-          "number": "9497980914",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SHO Bedakam",
-          "number": "9497980915",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SHO Bekal",
-          "number": "9497980916",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SHO Ambalathara",
-          "number": "9497980933",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SHO Hosdurg",
-          "number": "9497980921",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SHO Nileshwar",
-          "number": "9497980928",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SHO Chandera",
-          "number": "9497980918",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SHO Cheemeni",
-          "number": "9497980919",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SHO Vellarikundu",
-          "number": "9497980931",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SHO Rajapuram",
-          "number": "9497980930",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "SHO Chittarikkal",
-          "number": "9497980920",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "control_room",
-          "label": "Control Room",
+          "label": "Police helpline",
           "number": "100",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
+          "source_url": "https://kasargod.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "Crime Stopper",
-          "number": "1090",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Women Help Desk",
-          "number": "1091",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Highway Patrol- l",
-          "number": "9946500101",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Highway Patrol- 2",
-          "number": "9946500102",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Station Officer,Kasargod",
-          "number": "9497920258",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Station Officer,Kanhangad",
-          "number": "9497920260",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Asst.Station Officer,Uppala",
-          "number": "9497920265",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Station Officer, Trikaripur",
-          "number": "0467-2210201",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
-        },
-        {
-          "category": "other",
-          "label": "Station Officer, Trikaripur",
-          "number": "9497920263",
-          "source_url": "https://kasargod.nic.in/en/disaster-management/"
+          "label": "Food Adulteration",
+          "number": "8943346188",
+          "source_url": "https://kasargod.nic.in/en/helpline/"
         }
       ],
       "status": "ok",

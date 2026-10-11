@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:18:15+0000",
+  "generated_at": "2026-10-11T17:10:16+0000",
   "state_level_numbers": {
     "kerala_emergency_112": "112",
     "kseoc_state_disaster_control_room": "1070 / 1079 / 0471-2778800",
@@ -1158,33 +1158,27 @@
       "source_url": "https://kannur.nic.in/en/helpline/",
       "numbers": [
         {
+          "category": "other",
+          "label": "EMERGENCY HELPLINE(ERSS)",
+          "number": "112",
+          "source_url": "https://kannur.nic.in/en/helpline/"
+        },
+        {
           "category": "control_room",
           "label": "POLICE CONTROL ROOM",
           "number": "100",
           "source_url": "https://kannur.nic.in/en/helpline/"
         },
         {
-          "category": "other",
-          "label": "POLICE MESSAGE CENTER",
-          "number": "97 900000",
-          "source_url": "https://kannur.nic.in/en/helpline/"
-        },
-        {
-          "category": "other",
-          "label": "POLICE HIGH WAY HELP LINE",
-          "number": "100",
+          "category": "ambulance",
+          "label": "AMBULANCE",
+          "number": "108",
           "source_url": "https://kannur.nic.in/en/helpline/"
         },
         {
           "category": "fire",
           "label": "FIRE STATION",
           "number": "101",
-          "source_url": "https://kannur.nic.in/en/helpline/"
-        },
-        {
-          "category": "ambulance",
-          "label": "AMBULANCE",
-          "number": "108",
           "source_url": "https://kannur.nic.in/en/helpline/"
         },
         {
@@ -1195,20 +1189,26 @@
         },
         {
           "category": "other",
-          "label": "CRIME STOPPER",
-          "number": "1091",
+          "label": "DISASTER/NDRF",
+          "number": "011-24363260",
           "source_url": "https://kannur.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "HIGH WAY ALERT",
-          "number": "9846100100",
+          "label": "CYBER CRIME HELPLINE",
+          "number": "1930",
+          "source_url": "https://kannur.nic.in/en/helpline/"
+        },
+        {
+          "category": "child_helpline",
+          "label": "CHILD HELPLINE",
+          "number": "1098",
           "source_url": "https://kannur.nic.in/en/helpline/"
         },
         {
           "category": "other",
-          "label": "RAIL ALERT",
-          "number": "9846200100",
+          "label": "ROAD ACCIDENT HELPLINE",
+          "number": "1073",
           "source_url": "https://kannur.nic.in/en/helpline/"
         }
       ],

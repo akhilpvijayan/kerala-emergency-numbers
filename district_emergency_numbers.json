@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:11:39+0000",
+  "generated_at": "2026-10-25T15:22:22+0000",
   "state_level_numbers": {
     "kerala_emergency_112": "112",
     "kseoc_state_disaster_control_room": "1070 / 1079 / 0471-2778800",
@@ -571,119 +571,191 @@
     },
     "Idukki": {
       "district": "Idukki",
-      "source_url": "https://idukki.nic.in/en/helpline/",
+      "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf",
       "numbers": [
         {
-          "category": "ambulance",
-          "label": "Ambulance",
-          "number": "108",
-          "source_url": "https://idukki.nic.in/en/helpline/"
-        },
-        {
-          "category": "fire",
-          "label": "Fire Station",
-          "number": "101",
-          "source_url": "https://idukki.nic.in/en/helpline/"
-        },
-        {
-          "category": "control_room",
-          "label": "State Disaster Management Control Room",
-          "number": "1070",
-          "source_url": "https://idukki.nic.in/en/helpline/"
-        },
-        {
-          "category": "control_room",
-          "label": "District Disaster Management Control Room (Collectorate)",
-          "number": "1077",
-          "source_url": "https://idukki.nic.in/en/helpline/"
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486 2263226",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
           "category": "other",
-          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-2222550",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-2222911",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-2232318",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-2232354",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-2232356",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-2233006",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-2233030",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-2233056",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-2233103",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-2233111",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-2235225",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-2236100",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-2825333",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-5230290",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-8272300",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-9232300",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8547610061",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9072615306",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
           "number": "9383463036",
-          "source_url": "https://idukki.nic.in/en/helpline/"
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
           "category": "other",
-          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
-          "number": "100",
-          "source_url": "https://idukki.nic.in/en/helpline/"
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447032252",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
           "category": "other",
-          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
-          "number": "1098",
-          "source_url": "https://idukki.nic.in/en/helpline/"
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9495099907",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
           "category": "other",
-          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
-          "number": "1091",
-          "source_url": "https://idukki.nic.in/en/helpline/"
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920116",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
           "category": "other",
-          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
-          "number": "1090",
-          "source_url": "https://idukki.nic.in/en/helpline/"
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920156",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
           "category": "other",
-          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
-          "number": "1961",
-          "source_url": "https://idukki.nic.in/en/helpline/"
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920158",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
           "category": "other",
-          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
-          "number": "1967",
-          "source_url": "https://idukki.nic.in/en/helpline/"
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920162",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
           "category": "other",
-          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
-          "number": "1056",
-          "source_url": "https://idukki.nic.in/en/helpline/"
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920233",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
           "category": "other",
-          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
-          "number": "1800-425-5313",
-          "source_url": "https://idukki.nic.in/en/helpline/"
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497996981",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
           "category": "other",
-          "label": "Unlabeled (source page had ambiguous layout — verify manually)",
-          "number": "1912",
-          "source_url": "https://idukki.nic.in/en/helpline/"
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9744157057",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
-          "category": "police",
-          "label": "Police Station (Nearest)",
-          "number": "100",
-          "source_url": "https://idukki.nic.in/en/helpline/"
-        },
-        {
-          "category": "child_helpline",
-          "label": "Child Helpline",
-          "number": "1098",
-          "source_url": "https://idukki.nic.in/en/helpline/"
-        },
-        {
-          "category": "women_helpline",
-          "label": "Women Helpline",
-          "number": "1091",
-          "source_url": "https://idukki.nic.in/en/helpline/"
-        },
-        {
-          "category": "kwa",
-          "label": "Kerala Water Authority (Toll free no.)",
-          "number": "1800-425-5313",
-          "source_url": "https://idukki.nic.in/en/helpline/"
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9946105481",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         }
       ],
-      "status": "ok",
-      "error": null
+      "status": "ok_fallback_pdf",
+      "error": "Primary nic.in scrape failed — these numbers are from the KSDMA state PDF directory fallback and are uncategorized. Verify before publishing."
     },
     "Ernakulam": {
       "district": "Ernakulam",
@@ -1117,41 +1189,161 @@
     },
     "Wayanad": {
       "district": "Wayanad",
-      "source_url": "https://wayanad.nic.in/en/helpline/",
+      "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf",
       "numbers": [
         {
-          "category": "police",
-          "label": "Police Station",
-          "number": "100",
-          "source_url": "https://wayanad.nic.in/en/helpline/"
-        },
-        {
-          "category": "fire",
-          "label": "Fire Station",
-          "number": "101",
-          "source_url": "https://wayanad.nic.in/en/helpline/"
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0493-5240390",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
           "category": "other",
-          "label": "Child Line",
-          "number": "1098",
-          "source_url": "https://wayanad.nic.in/en/helpline/"
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0493-6202230",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
           "category": "other",
-          "label": "Womens Helpline",
-          "number": "1091",
-          "source_url": "https://wayanad.nic.in/en/helpline/"
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0493-6202259",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
           "category": "other",
-          "label": "Highway Alert",
-          "number": "100",
-          "source_url": "https://wayanad.nic.in/en/helpline/"
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0493-6202333",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0493-6202521",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0493-6202525",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0493-6202532",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0493-6203101",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0493-6203906",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0493-6204151",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0493-6205844",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0493-6205949",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0493-6224217",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8078409770",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8547616021",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9072615312",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446008329",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446008330",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447097702",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447204666",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9495099914",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920122",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497980125",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497996974",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9946105493",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         }
       ],
-      "status": "ok",
-      "error": null
+      "status": "ok_fallback_pdf",
+      "error": "Primary nic.in scrape failed — these numbers are from the KSDMA state PDF directory fallback and are uncategorized. Verify before publishing."
     },
     "Kannur": {
       "district": "Kannur",
@@ -1217,59 +1409,2345 @@
     },
     "Kasaragod": {
       "district": "Kasaragod",
-      "source_url": "https://kasargod.nic.in/en/helpline/",
+      "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf",
       "numbers": [
         {
           "category": "other",
-          "label": "Cyber Cell",
-          "number": "0471-2449090",
-          "source_url": "https://kasargod.nic.in/en/helpline/"
-        },
-        {
-          "category": "kwa",
-          "label": "Water Authority",
-          "number": "0487-2333070",
-          "source_url": "https://kasargod.nic.in/en/helpline/"
-        },
-        {
-          "category": "child_helpline",
-          "label": "Child Helpline",
-          "number": "1098",
-          "source_url": "https://kasargod.nic.in/en/helpline/"
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91 9868101885",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
           "category": "other",
-          "label": "R.T.O helpline",
-          "number": "8547639108",
-          "source_url": "https://kasargod.nic.in/en/helpline/"
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91 9868891801",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
           "category": "other",
-          "label": "Excise Helpline",
-          "number": "0487-2361237",
-          "source_url": "https://kasargod.nic.in/en/helpline/"
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-23092722",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
-          "category": "women_helpline",
-          "label": "Women Helpline",
-          "number": "1091",
-          "source_url": "https://kasargod.nic.in/en/helpline/"
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-23092989",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
-          "category": "police",
-          "label": "Police helpline",
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-23093003",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-23093564",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-23093750",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-23438096",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-23438098",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-23438252",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-23438253",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-23438254",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-26701701",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-26701709",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-26701715",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-26701716",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-26701720",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-26701728",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-26701738",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-26701747",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-26701765",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-26701775",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-26701776",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-26701777",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-26701864",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-26701872",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-26701884",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "+91-11-26701886",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "011-23438091",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "011-23438136",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "011-24368925",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "044-24917711",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0467-2202537",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0467-2203118",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0467-2205710",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0467-2206886",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0468 2222494",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0468-2322515",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0470-2607700",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0470-2622000",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2313385",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2319831",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2320868",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2322830",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2325106",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2364424",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2462829",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2486484",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2511501",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2518356",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2551376",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2554255",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2721601",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2731166",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2731177",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2731188",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2752617",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770012",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770013",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770018",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770020",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770029",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770038",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770054",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770056",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770057",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770069",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770071",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770079",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770082",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770087",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770088",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770090",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770091",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770092",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770093",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770094",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2770206",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2774095",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471 2783939",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-155333",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2201717",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2222101",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2222307",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2273101",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2280101",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2302381",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2302490",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2302887",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2303025",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2303160",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2304230",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2304480",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2306040",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2312886",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2314526",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2314853",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2318406",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2318946",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2320486",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2320578",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2320579",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2320988",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2321676",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2322346",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2322471",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2322547",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2322833",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2322855",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2322894",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2322927",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2322947",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2323286",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2323979",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2325239",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2326812",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2327782",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-233100",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2331639",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2331843",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2333091",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2333101",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2333109",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2333147",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2333174",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2333198",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2333314",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2333670",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2337397",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2339593",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2346508",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2346534",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2346538",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2352373",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2353030",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2364424",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2417827",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2440974",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2441597",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2446471",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2447429",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2450773",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2459365",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2461013",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2461147",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2461399",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2462574",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2470342",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2471291",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2474266",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2478030",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2480300",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2480335",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2481856",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2486484",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2487200",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2501255",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2507827",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2511501",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2511502",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2512040",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2517437",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2518113",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2518119",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2518181",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2518216",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2518255",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2518356",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2518406",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2518443",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2518453",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2525444",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2528506",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2528508",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2555544",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2556699",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2700099",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2730045",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2730067",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2737240",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2738300",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2778800",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2778844",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0471-2778888",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0472-2812101",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0472-2859101",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0472-2871101",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0474 2793818",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0474-2794002",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0477 2251457",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0477-2238630",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0477-2252015",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0479 2382014",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0481 2562425",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0481-2566300",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0483 2734390",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0483-2736320",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0484 2211000",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0484 2314229",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0484 2423071",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0484 2972667",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0484-2216046",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0484-2218121",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0484-2423513",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0484-2555950",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0484-2872358",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0484-2879999",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0484-2915441",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486 2232291",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0486-2233111",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0487 2323977",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0487 2361513",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0487-2301167",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0487-2302268",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0487-2362424",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0491 2505292",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0491-2505309",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0493 6202236",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0493-6204151",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0495 2371754",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0495-2371002",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0497 2700418",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0497-2703645",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0497-2766993",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0499 4255687",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0499-4225677",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0499-4230101",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0499-4230382",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0499-4231101",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0499-4255687",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0499-4255833",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0499-4256400",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0499-4257401",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "0499-4257700",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
           "number": "100",
-          "source_url": "https://kasargod.nic.in/en/helpline/"
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         },
         {
           "category": "other",
-          "label": "Food Adulteration",
-          "number": "8943346188",
-          "source_url": "https://kasargod.nic.in/en/helpline/"
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "101",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "1011",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "1070",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "1077",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "1078",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "1079",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "108",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "109",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "1093",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "1098",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "112",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "1554",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "1800-180-1104",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "18004251803",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "18004252147",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "1912",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "1916",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "6282934416",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8078071070",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8078075552",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8078409770",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8078808915",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8078972385",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8086395003",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8281974722",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8547102577",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8547155621",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8547605905",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8547610000",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8547610101",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8547638114",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8547655214",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8589077774",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8921994727",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8991118172",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8991118173",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8991118174",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8991118175",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8991119064",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8991119065",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8991119066",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8991119067",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8991119068",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8991119069",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8991119070",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8991119071",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8991119072",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8991119073",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "8991119074",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9048917984",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9072615314",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9188027019",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9188619365",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9188961111",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9383463036",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9383464212",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9383470100",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9387363300",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9388600514",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9400021077",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9400050320",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9400058900",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9400169681",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9400323122",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9400553344",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9442140269",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446008010",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446008011",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446008018",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446008022",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446008023",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446008345",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446008588",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446067097",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446068285",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446331953",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446385900",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446386719",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446502927",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446513040",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446533341",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446538900",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446562236",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446568222",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446579222",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446601700",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446682300",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446768626",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9446959894",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447000370",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447047429",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447071092",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447074424",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447139266",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447144230",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447170342",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447171437",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447178000",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447254871",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447344491",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447433036",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447496600",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447499938",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447677800",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447688595",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447700222",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447702525",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447713067",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447726900",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447733947",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447791297",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9447979000",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9495003640",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9495099902",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9495099916",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9495467650",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9495655920",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9496007020",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9496007026",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9496018719",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9496040600",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9496753000",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497379999",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497392798",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497711281",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497724200",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920001",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920004",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920021",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920023",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920025",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920027",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920031",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920033",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920035",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920037",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920110",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920123",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920258",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497920277",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497960211",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497990246",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497996988",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497996991",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9497999999",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9711077372",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9745416475",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9747542020",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9846100100",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9868101885",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9868891801",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9946105472",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9946105497",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
+        },
+        {
+          "category": "other",
+          "label": "From KSDMA PDF directory (uncategorized)",
+          "number": "9995841716",
+          "source_url": "https://sdma.kerala.gov.in/wp-content/uploads/2023/05/DM-DIRECTORY.pdf"
         }
       ],
-      "status": "ok",
-      "error": null
+      "status": "ok_fallback_pdf",
+      "error": "Primary nic.in scrape failed — these numbers are from the KSDMA state PDF directory fallback and are uncategorized. Verify before publishing."
     }
   },
   "ksdma_pdf_crosscheck": {
